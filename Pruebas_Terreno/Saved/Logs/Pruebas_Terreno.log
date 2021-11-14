@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 11/14/21 22:10:16
+=======
+﻿Log file open, 11/14/21 13:49:43
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 11/14/21 13:49:43
 >>>>>>> Stashed changes
@@ -19,6 +23,9 @@ LogStats: Stats thread started at 0.235394
 =======
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 2.213373
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
@@ -26,9 +33,15 @@ LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+=======
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
@@ -58,7 +71,10 @@ LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PerforceSourceControl
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PixWinPlugin
@@ -68,8 +84,14 @@ LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin TextureFormatOodle
 LogPluginManager: Mounting plugin SubversionSourceControl
+=======
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin SubversionSourceControl
@@ -97,6 +119,9 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
@@ -105,11 +130,15 @@ LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosEditor
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 =======
 LogPluginManager: Mounting plugin ChaosSolverPlugin
+=======
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin CharacterAI
 >>>>>>> Stashed changes
@@ -125,7 +154,10 @@ LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin Niagara
@@ -166,7 +198,10 @@ LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ScreenshotTools
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidPermission
@@ -174,7 +209,10 @@ LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AssetTags
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AudioCapture
@@ -203,6 +241,9 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 <<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin SignificanceManager
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
@@ -213,8 +254,11 @@ LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
@@ -307,6 +351,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2021.11.14-21.10.16:905][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.11.14-21.10.16:905][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2132,6 +2177,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.14-21.37.18:607][957]LogExit: Exiting.
 [2021.11.14-21.37.18:614][957]Log file closed, 11/14/21 22:37:18
 =======
+=======
+>>>>>>> Stashed changes
 [2021.11.14-12.49.51:035][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.11.14-12.49.51:035][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.11.14-12.49.51:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/GitHub/GitHub/RabbitsOnWingsV2/Pruebas_Terreno/Saved/Config/Windows/Engine.ini]
@@ -13571,4 +13618,7 @@ Script Stack (0 frames):
 [2021.11.14-21.38.59:541][217]LogD3D11RHI: CleanupD3DDevice
 [2021.11.14-21.39.00:452][217]LogExit: Exiting.
 [2021.11.14-21.39.00:479][217]Log file closed, 11/14/21 22:39:00
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
