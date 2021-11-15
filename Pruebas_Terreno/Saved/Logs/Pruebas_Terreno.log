@@ -25157,3 +25157,1833 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.15-19.42.26:587][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.11.15-19.42.26:597][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
 [2021.11.15-19.42.26:832][737]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.11.15-19.42.57:209][962]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.15-19.42.57:215][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.15-19.42.57:215][962]PIE: New page: PIE session: Menu (15 nov. 2021 21:42:57)
+[2021.11.15-19.42.57:215][962]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu
+[2021.11.15-19.42.57:218][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002845s)
+[2021.11.15-19.42.57:219][962]LogAIModule: Creating AISystem for world Menu
+[2021.11.15-19.42.57:220][962]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2021.11.15-19.42.57:220][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu.Menu to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu (0.004621s)
+[2021.11.15-19.42.57:239][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.11.15-19.42.57:239][962]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.11.15-19.42.57:239][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.15-19.42.57:239][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.15-19.42.57:239][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.15-19.42.57:239][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.15-19.42.57:239][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.15-19.42.57:239][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.15-19.42.57:239][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.15-19.42.57:239][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.15-19.42.57:240][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.15-19.42.57:240][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.15-19.42.57:240][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.15-19.42.57:240][962]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.15-19.42.57:245][962]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.15-19.42.57:245][962]LogAudioMixer: Display: 1: FrontRight
+[2021.11.15-19.42.57:263][962]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.11.15-19.42.57:263][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.15-19.42.57:264][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.15-19.42.57:264][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.15-19.42.57:264][962]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.15-19.42.57:264][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.15-19.42.57:264][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.15-19.42.57:265][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.15-19.42.57:265][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.15-19.42.57:265][962]LogInit: FAudioDevice initialized.
+[2021.11.15-19.42.57:265][962]LogAudio: Display: Audio Device (ID: 7) registered with world 'Menu'.
+[2021.11.15-19.42.57:286][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-19.42.57:286][962]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.15-19.42.57:288][962]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2021.11.15-20.42.57
+[2021.11.15-19.42.57:288][962]LogWorld: Bringing up level for play took: 0.001301
+[2021.11.15-19.42.57:289][962]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.15-19.42.57:292][962]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.15-19.42.57:292][962]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.15-19.42.57:295][962]PIE: Server logged in
+[2021.11.15-19.42.57:298][962]PIE: Play in editor total start time 0,084 seconds.
+[2021.11.15-19.42.59:853][212]LogNet: Browse: /Game/ThirdPersonBP/Maps/EndlessRunner
+[2021.11.15-19.42.59:854][212]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/EndlessRunner
+[2021.11.15-19.42.59:854][212]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu
+[2021.11.15-19.42.59:854][212]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.42.59:854][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-19.42.59:909][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.15-19.42.59:911][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.15-19.42.59:917][212]LogAudio: Display: Audio Device (ID: 7) registered with world 'EndlessRunner'.
+[2021.11.15-19.42.59:918][212]LogAIModule: Creating AISystem for world EndlessRunner
+[2021.11.15-19.42.59:918][212]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.15-19.42.59:920][212]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 0) at 2021.11.15-20.42.59
+[2021.11.15-19.42.59:920][212]LogWorld: Bringing up level for play took: 0.000833
+[2021.11.15-19.42.59:948][212]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.15-19.42.59:948][212]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.11.15-19.42.59:948][212]LogLoad: Took 0.094789 seconds to LoadMap(/Game/ThirdPersonBP/Maps/EndlessRunner)
+[2021.11.15-19.42.59:949][212]LogBlueprintUserMessages: [FlyingPawn_C_0] 1504.799683
+[2021.11.15-19.42.59:961][213]LogBlueprintUserMessages: [FlyingPawn_C_0] 1544.118896
+[2021.11.15-19.42.59:980][214]LogBlueprintUserMessages: [FlyingPawn_C_0] 1550.764526
+[2021.11.15-19.42.59:991][215]LogBlueprintUserMessages: [FlyingPawn_C_0] 1554.861938
+[2021.11.15-19.43.00:003][216]LogBlueprintUserMessages: [FlyingPawn_C_0] 1559.24707
+[2021.11.15-19.43.00:016][217]LogBlueprintUserMessages: [FlyingPawn_C_0] 1564.005615
+[2021.11.15-19.43.00:027][218]LogBlueprintUserMessages: [FlyingPawn_C_0] 1567.945068
+[2021.11.15-19.43.00:038][219]LogBlueprintUserMessages: [FlyingPawn_C_0] 1572.142456
+[2021.11.15-19.43.00:050][220]LogBlueprintUserMessages: [FlyingPawn_C_0] 1576.415649
+[2021.11.15-19.43.00:061][221]LogBlueprintUserMessages: [FlyingPawn_C_0] 1580.472412
+[2021.11.15-19.43.00:072][222]LogBlueprintUserMessages: [FlyingPawn_C_0] 1584.567017
+[2021.11.15-19.43.00:083][223]LogBlueprintUserMessages: [FlyingPawn_C_0] 1588.694824
+[2021.11.15-19.43.00:094][224]LogBlueprintUserMessages: [FlyingPawn_C_0] 1592.496216
+[2021.11.15-19.43.00:106][225]LogBlueprintUserMessages: [FlyingPawn_C_0] 1596.969604
+[2021.11.15-19.43.00:117][226]LogBlueprintUserMessages: [FlyingPawn_C_0] 1600.875122
+[2021.11.15-19.43.00:128][227]LogBlueprintUserMessages: [FlyingPawn_C_0] 1604.859131
+[2021.11.15-19.43.00:139][228]LogBlueprintUserMessages: [FlyingPawn_C_0] 1608.92981
+[2021.11.15-19.43.00:150][229]LogBlueprintUserMessages: [FlyingPawn_C_0] 1612.976562
+[2021.11.15-19.43.00:160][230]LogBlueprintUserMessages: [FlyingPawn_C_0] 1616.870239
+[2021.11.15-19.43.00:172][231]LogBlueprintUserMessages: [FlyingPawn_C_0] 1621.142822
+[2021.11.15-19.43.00:184][232]LogBlueprintUserMessages: [FlyingPawn_C_0] 1625.572266
+[2021.11.15-19.43.00:196][233]LogBlueprintUserMessages: [FlyingPawn_C_0] 1629.805298
+[2021.11.15-19.43.00:206][234]LogBlueprintUserMessages: [FlyingPawn_C_0] 1633.736084
+[2021.11.15-19.43.00:217][235]LogBlueprintUserMessages: [FlyingPawn_C_0] 1637.762939
+[2021.11.15-19.43.00:228][236]LogBlueprintUserMessages: [FlyingPawn_C_0] 1641.645752
+[2021.11.15-19.43.00:239][237]LogBlueprintUserMessages: [FlyingPawn_C_0] 1645.680786
+[2021.11.15-19.43.00:250][238]LogBlueprintUserMessages: [FlyingPawn_C_0] 1649.852539
+[2021.11.15-19.43.00:261][239]LogBlueprintUserMessages: [FlyingPawn_C_0] 1653.94873
+[2021.11.15-19.43.00:272][240]LogBlueprintUserMessages: [FlyingPawn_C_0] 1657.930176
+[2021.11.15-19.43.00:284][241]LogBlueprintUserMessages: [FlyingPawn_C_0] 1662.024536
+[2021.11.15-19.43.00:295][242]LogBlueprintUserMessages: [FlyingPawn_C_0] 1666.095337
+[2021.11.15-19.43.00:306][243]LogBlueprintUserMessages: [FlyingPawn_C_0] 1670.401855
+[2021.11.15-19.43.00:317][244]LogBlueprintUserMessages: [FlyingPawn_C_0] 1674.310425
+[2021.11.15-19.43.00:330][245]LogBlueprintUserMessages: [FlyingPawn_C_0] 1679.056274
+[2021.11.15-19.43.00:343][246]LogBlueprintUserMessages: [FlyingPawn_C_0] 1683.956299
+[2021.11.15-19.43.00:355][247]LogBlueprintUserMessages: [FlyingPawn_C_0] 1688.018433
+[2021.11.15-19.43.00:366][248]LogBlueprintUserMessages: [FlyingPawn_C_0] 1692.140015
+[2021.11.15-19.43.00:378][249]LogBlueprintUserMessages: [FlyingPawn_C_0] 1696.527344
+[2021.11.15-19.43.00:389][250]LogBlueprintUserMessages: [FlyingPawn_C_0] 1700.651733
+[2021.11.15-19.43.00:400][251]LogBlueprintUserMessages: [FlyingPawn_C_0] 1704.786133
+[2021.11.15-19.43.00:411][252]LogBlueprintUserMessages: [FlyingPawn_C_0] 1708.821777
+[2021.11.15-19.43.00:422][253]LogBlueprintUserMessages: [FlyingPawn_C_0] 1712.728638
+[2021.11.15-19.43.00:434][254]LogBlueprintUserMessages: [FlyingPawn_C_0] 1717.090454
+[2021.11.15-19.43.00:445][255]LogBlueprintUserMessages: [FlyingPawn_C_0] 1721.293457
+[2021.11.15-19.43.00:457][256]LogBlueprintUserMessages: [FlyingPawn_C_0] 1725.421387
+[2021.11.15-19.43.00:467][257]LogBlueprintUserMessages: [FlyingPawn_C_0] 1729.486206
+[2021.11.15-19.43.00:478][258]LogBlueprintUserMessages: [FlyingPawn_C_0] 1733.45813
+[2021.11.15-19.43.00:489][259]LogBlueprintUserMessages: [FlyingPawn_C_0] 1737.634644
+[2021.11.15-19.43.00:501][260]LogBlueprintUserMessages: [FlyingPawn_C_0] 1741.841675
+[2021.11.15-19.43.00:511][261]LogBlueprintUserMessages: [FlyingPawn_C_0] 1745.70813
+[2021.11.15-19.43.00:522][262]LogBlueprintUserMessages: [FlyingPawn_C_0] 1749.567749
+[2021.11.15-19.43.00:534][263]LogBlueprintUserMessages: [FlyingPawn_C_0] 1753.93457
+[2021.11.15-19.43.00:546][264]LogBlueprintUserMessages: [FlyingPawn_C_0] 1758.007935
+[2021.11.15-19.43.00:556][265]LogBlueprintUserMessages: [FlyingPawn_C_0] 1761.955322
+[2021.11.15-19.43.00:568][266]LogBlueprintUserMessages: [FlyingPawn_C_0] 1766.031128
+[2021.11.15-19.43.00:579][267]LogBlueprintUserMessages: [FlyingPawn_C_0] 1770.112061
+[2021.11.15-19.43.00:591][268]LogBlueprintUserMessages: [FlyingPawn_C_0] 1774.338135
+[2021.11.15-19.43.00:605][269]LogBlueprintUserMessages: [FlyingPawn_C_0] 1779.759644
+[2021.11.15-19.43.00:618][270]LogBlueprintUserMessages: [FlyingPawn_C_0] 1784.407227
+[2021.11.15-19.43.00:632][271]LogBlueprintUserMessages: [FlyingPawn_C_0] 1789.283447
+[2021.11.15-19.43.00:644][272]LogBlueprintUserMessages: [FlyingPawn_C_0] 1793.963379
+[2021.11.15-19.43.00:656][273]LogBlueprintUserMessages: [FlyingPawn_C_0] 1798.159302
+[2021.11.15-19.43.00:668][274]LogBlueprintUserMessages: [FlyingPawn_C_0] 1802.519409
+[2021.11.15-19.43.00:679][275]LogBlueprintUserMessages: [FlyingPawn_C_0] 1806.576782
+[2021.11.15-19.43.00:690][276]LogBlueprintUserMessages: [FlyingPawn_C_0] 1810.49353
+[2021.11.15-19.43.00:701][277]LogBlueprintUserMessages: [FlyingPawn_C_0] 1814.695068
+[2021.11.15-19.43.00:712][278]LogBlueprintUserMessages: [FlyingPawn_C_0] 1818.552368
+[2021.11.15-19.43.00:722][279]LogBlueprintUserMessages: [FlyingPawn_C_0] 1822.501221
+[2021.11.15-19.43.00:734][280]LogBlueprintUserMessages: [FlyingPawn_C_0] 1826.795776
+[2021.11.15-19.43.00:745][281]LogBlueprintUserMessages: [FlyingPawn_C_0] 1830.668701
+[2021.11.15-19.43.00:755][282]LogBlueprintUserMessages: [FlyingPawn_C_0] 1834.57251
+[2021.11.15-19.43.00:767][283]LogBlueprintUserMessages: [FlyingPawn_C_0] 1839.0177
+[2021.11.15-19.43.00:780][284]LogBlueprintUserMessages: [FlyingPawn_C_0] 1843.57373
+[2021.11.15-19.43.00:791][285]LogBlueprintUserMessages: [FlyingPawn_C_0] 1847.537842
+[2021.11.15-19.43.00:802][286]LogBlueprintUserMessages: [FlyingPawn_C_0] 1851.730591
+[2021.11.15-19.43.00:814][287]LogBlueprintUserMessages: [FlyingPawn_C_0] 1855.951538
+[2021.11.15-19.43.00:824][288]LogBlueprintUserMessages: [FlyingPawn_C_0] 1859.806152
+[2021.11.15-19.43.00:835][289]LogBlueprintUserMessages: [FlyingPawn_C_0] 1863.87915
+[2021.11.15-19.43.00:846][290]LogBlueprintUserMessages: [FlyingPawn_C_0] 1867.867188
+[2021.11.15-19.43.00:857][291]LogBlueprintUserMessages: [FlyingPawn_C_0] 1871.997437
+[2021.11.15-19.43.00:868][292]LogBlueprintUserMessages: [FlyingPawn_C_0] 1876.108887
+[2021.11.15-19.43.00:880][293]LogBlueprintUserMessages: [FlyingPawn_C_0] 1880.230225
+[2021.11.15-19.43.00:890][294]LogBlueprintUserMessages: [FlyingPawn_C_0] 1884.139526
+[2021.11.15-19.43.00:901][295]LogBlueprintUserMessages: [FlyingPawn_C_0] 1888.132202
+[2021.11.15-19.43.00:913][296]LogBlueprintUserMessages: [FlyingPawn_C_0] 1892.248291
+[2021.11.15-19.43.00:924][297]LogBlueprintUserMessages: [FlyingPawn_C_0] 1896.278809
+[2021.11.15-19.43.00:935][298]LogBlueprintUserMessages: [FlyingPawn_C_0] 1900.381836
+[2021.11.15-19.43.00:946][299]LogBlueprintUserMessages: [FlyingPawn_C_0] 1904.615112
+[2021.11.15-19.43.00:957][300]LogBlueprintUserMessages: [FlyingPawn_C_0] 1908.422485
+[2021.11.15-19.43.00:969][301]LogBlueprintUserMessages: [FlyingPawn_C_0] 1912.829102
+[2021.11.15-19.43.00:979][302]LogBlueprintUserMessages: [FlyingPawn_C_0] 1916.763916
+[2021.11.15-19.43.00:991][303]LogBlueprintUserMessages: [FlyingPawn_C_0] 1920.895142
+[2021.11.15-19.43.01:002][304]LogBlueprintUserMessages: [FlyingPawn_C_0] 1925.172119
+[2021.11.15-19.43.01:014][305]LogBlueprintUserMessages: [FlyingPawn_C_0] 1929.400757
+[2021.11.15-19.43.01:024][306]LogBlueprintUserMessages: [FlyingPawn_C_0] 1933.271606
+[2021.11.15-19.43.01:036][307]LogBlueprintUserMessages: [FlyingPawn_C_0] 1937.507446
+[2021.11.15-19.43.01:047][308]LogBlueprintUserMessages: [FlyingPawn_C_0] 1941.411621
+[2021.11.15-19.43.01:058][309]LogBlueprintUserMessages: [FlyingPawn_C_0] 1945.427856
+[2021.11.15-19.43.01:070][310]LogBlueprintUserMessages: [FlyingPawn_C_0] 1949.690186
+[2021.11.15-19.43.01:081][311]LogBlueprintUserMessages: [FlyingPawn_C_0] 1953.934082
+[2021.11.15-19.43.01:092][312]LogBlueprintUserMessages: [FlyingPawn_C_0] 1957.831177
+[2021.11.15-19.43.01:103][313]LogBlueprintUserMessages: [FlyingPawn_C_0] 1961.778076
+[2021.11.15-19.43.01:114][314]LogBlueprintUserMessages: [FlyingPawn_C_0] 1965.861328
+[2021.11.15-19.43.01:125][315]LogBlueprintUserMessages: [FlyingPawn_C_0] 1969.914795
+[2021.11.15-19.43.01:136][316]LogBlueprintUserMessages: [FlyingPawn_C_0] 1973.964722
+[2021.11.15-19.43.01:147][317]LogBlueprintUserMessages: [FlyingPawn_C_0] 1978.046753
+[2021.11.15-19.43.01:158][318]LogBlueprintUserMessages: [FlyingPawn_C_0] 1981.90625
+[2021.11.15-19.43.01:168][319]LogBlueprintUserMessages: [FlyingPawn_C_0] 1986.085083
+[2021.11.15-19.43.01:180][320]LogBlueprintUserMessages: [FlyingPawn_C_0] 1990.18042
+[2021.11.15-19.43.01:190][321]LogBlueprintUserMessages: [FlyingPawn_C_0] 1994.108521
+[2021.11.15-19.43.01:202][322]LogBlueprintUserMessages: [FlyingPawn_C_0] 1998.523193
+[2021.11.15-19.43.01:214][323]LogBlueprintUserMessages: [FlyingPawn_C_0] 2002.849976
+[2021.11.15-19.43.01:225][324]LogBlueprintUserMessages: [FlyingPawn_C_0] 2006.876587
+[2021.11.15-19.43.01:236][325]LogBlueprintUserMessages: [FlyingPawn_C_0] 2010.94458
+[2021.11.15-19.43.01:247][326]LogBlueprintUserMessages: [FlyingPawn_C_0] 2014.898315
+[2021.11.15-19.43.01:259][327]LogBlueprintUserMessages: [FlyingPawn_C_0] 2019.180176
+[2021.11.15-19.43.01:271][328]LogBlueprintUserMessages: [FlyingPawn_C_0] 2023.586548
+[2021.11.15-19.43.01:283][329]LogBlueprintUserMessages: [FlyingPawn_C_0] 2028.020386
+[2021.11.15-19.43.01:295][330]LogBlueprintUserMessages: [FlyingPawn_C_0] 2031.979248
+[2021.11.15-19.43.01:305][331]LogBlueprintUserMessages: [FlyingPawn_C_0] 2036.183105
+[2021.11.15-19.43.01:316][332]LogBlueprintUserMessages: [FlyingPawn_C_0] 2040.17627
+[2021.11.15-19.43.01:328][333]LogBlueprintUserMessages: [FlyingPawn_C_0] 2044.309082
+[2021.11.15-19.43.01:338][334]LogBlueprintUserMessages: [FlyingPawn_C_0] 2048.300049
+[2021.11.15-19.43.01:349][335]LogBlueprintUserMessages: [FlyingPawn_C_0] 2052.331543
+[2021.11.15-19.43.01:360][336]LogBlueprintUserMessages: [FlyingPawn_C_0] 2056.238525
+[2021.11.15-19.43.01:371][337]LogBlueprintUserMessages: [FlyingPawn_C_0] 2060.290039
+[2021.11.15-19.43.01:383][338]LogBlueprintUserMessages: [FlyingPawn_C_0] 2064.511719
+[2021.11.15-19.43.01:394][339]LogBlueprintUserMessages: [FlyingPawn_C_0] 2068.637207
+[2021.11.15-19.43.01:405][340]LogBlueprintUserMessages: [FlyingPawn_C_0] 2072.749512
+[2021.11.15-19.43.01:416][341]LogBlueprintUserMessages: [FlyingPawn_C_0] 2076.76123
+[2021.11.15-19.43.01:427][342]LogBlueprintUserMessages: [FlyingPawn_C_0] 2080.686768
+[2021.11.15-19.43.01:439][343]LogBlueprintUserMessages: [FlyingPawn_C_0] 2084.937988
+[2021.11.15-19.43.01:449][344]LogBlueprintUserMessages: [FlyingPawn_C_0] 2088.859863
+[2021.11.15-19.43.01:460][345]LogBlueprintUserMessages: [FlyingPawn_C_0] 2092.846924
+[2021.11.15-19.43.01:471][346]LogBlueprintUserMessages: [FlyingPawn_C_0] 2096.836914
+[2021.11.15-19.43.01:481][347]LogBlueprintUserMessages: [FlyingPawn_C_0] 2100.762695
+[2021.11.15-19.43.01:493][348]LogBlueprintUserMessages: [FlyingPawn_C_0] 2104.782227
+[2021.11.15-19.43.01:504][349]LogBlueprintUserMessages: [FlyingPawn_C_0] 2108.893555
+[2021.11.15-19.43.01:515][350]LogBlueprintUserMessages: [FlyingPawn_C_0] 2112.993164
+[2021.11.15-19.43.01:527][351]LogBlueprintUserMessages: [FlyingPawn_C_0] 2117.333496
+[2021.11.15-19.43.01:539][352]LogBlueprintUserMessages: [FlyingPawn_C_0] 2121.438965
+[2021.11.15-19.43.01:550][353]LogBlueprintUserMessages: [FlyingPawn_C_0] 2125.633301
+[2021.11.15-19.43.01:561][354]LogBlueprintUserMessages: [FlyingPawn_C_0] 2129.612549
+[2021.11.15-19.43.01:573][355]LogBlueprintUserMessages: [FlyingPawn_C_0] 2133.988037
+[2021.11.15-19.43.01:586][356]LogBlueprintUserMessages: [FlyingPawn_C_0] 2138.788086
+[2021.11.15-19.43.01:600][357]LogBlueprintUserMessages: [FlyingPawn_C_0] 2143.710205
+[2021.11.15-19.43.01:614][358]LogBlueprintUserMessages: [FlyingPawn_C_0] 2148.981689
+[2021.11.15-19.43.01:628][359]LogBlueprintUserMessages: [FlyingPawn_C_0] 2153.858643
+[2021.11.15-19.43.01:640][360]LogBlueprintUserMessages: [FlyingPawn_C_0] 2158.480225
+[2021.11.15-19.43.01:652][361]LogBlueprintUserMessages: [FlyingPawn_C_0] 2162.697021
+[2021.11.15-19.43.01:663][362]LogBlueprintUserMessages: [FlyingPawn_C_0] 2166.632568
+[2021.11.15-19.43.01:674][363]LogBlueprintUserMessages: [FlyingPawn_C_0] 2170.632812
+[2021.11.15-19.43.01:684][364]LogBlueprintUserMessages: [FlyingPawn_C_0] 2174.584473
+[2021.11.15-19.43.01:696][365]LogBlueprintUserMessages: [FlyingPawn_C_0] 2178.715332
+[2021.11.15-19.43.01:707][366]LogBlueprintUserMessages: [FlyingPawn_C_0] 2182.67749
+[2021.11.15-19.43.01:718][367]LogBlueprintUserMessages: [FlyingPawn_C_0] 2186.921387
+[2021.11.15-19.43.01:729][368]LogBlueprintUserMessages: [FlyingPawn_C_0] 2190.925781
+[2021.11.15-19.43.01:741][369]LogBlueprintUserMessages: [FlyingPawn_C_0] 2195.168701
+[2021.11.15-19.43.01:751][370]LogBlueprintUserMessages: [FlyingPawn_C_0] 2199.089355
+[2021.11.15-19.43.01:762][371]LogBlueprintUserMessages: [FlyingPawn_C_0] 2202.932129
+[2021.11.15-19.43.01:773][372]LogBlueprintUserMessages: [FlyingPawn_C_0] 2207.031494
+[2021.11.15-19.43.01:785][373]LogBlueprintUserMessages: [FlyingPawn_C_0] 2211.341064
+[2021.11.15-19.43.01:797][374]LogBlueprintUserMessages: [FlyingPawn_C_0] 2215.564941
+[2021.11.15-19.43.01:808][375]LogBlueprintUserMessages: [FlyingPawn_C_0] 2219.738525
+[2021.11.15-19.43.01:819][376]LogBlueprintUserMessages: [FlyingPawn_C_0] 2224.07373
+[2021.11.15-19.43.01:830][377]LogBlueprintUserMessages: [FlyingPawn_C_0] 2227.916016
+[2021.11.15-19.43.01:842][378]LogBlueprintUserMessages: [FlyingPawn_C_0] 2232.224121
+[2021.11.15-19.43.01:853][379]LogBlueprintUserMessages: [FlyingPawn_C_0] 2236.26416
+[2021.11.15-19.43.01:864][380]LogBlueprintUserMessages: [FlyingPawn_C_0] 2240.270752
+[2021.11.15-19.43.01:877][381]LogBlueprintUserMessages: [FlyingPawn_C_0] 2244.512695
+[2021.11.15-19.43.01:887][382]LogBlueprintUserMessages: [FlyingPawn_C_0] 2248.486084
+[2021.11.15-19.43.01:898][383]LogBlueprintUserMessages: [FlyingPawn_C_0] 2252.532227
+[2021.11.15-19.43.01:909][384]LogBlueprintUserMessages: [FlyingPawn_C_0] 2256.486084
+[2021.11.15-19.43.01:920][385]LogBlueprintUserMessages: [FlyingPawn_C_0] 2260.52832
+[2021.11.15-19.43.01:932][386]LogBlueprintUserMessages: [FlyingPawn_C_0] 2264.758789
+[2021.11.15-19.43.01:944][387]LogBlueprintUserMessages: [FlyingPawn_C_0] 2269.119629
+[2021.11.15-19.43.01:955][388]LogBlueprintUserMessages: [FlyingPawn_C_0] 2273.099854
+[2021.11.15-19.43.01:967][389]LogBlueprintUserMessages: [FlyingPawn_C_0] 2277.542236
+[2021.11.15-19.43.01:978][390]LogBlueprintUserMessages: [FlyingPawn_C_0] 2281.498047
+[2021.11.15-19.43.01:989][391]LogBlueprintUserMessages: [FlyingPawn_C_0] 2285.638184
+[2021.11.15-19.43.02:001][392]LogBlueprintUserMessages: [FlyingPawn_C_0] 2289.941895
+[2021.11.15-19.43.02:013][393]LogBlueprintUserMessages: [FlyingPawn_C_0] 2293.986084
+[2021.11.15-19.43.02:023][394]LogBlueprintUserMessages: [FlyingPawn_C_0] 2297.900879
+[2021.11.15-19.43.02:035][395]LogBlueprintUserMessages: [FlyingPawn_C_0] 2302.043457
+[2021.11.15-19.43.02:045][396]LogBlueprintUserMessages: [FlyingPawn_C_0] 2306.065674
+[2021.11.15-19.43.02:056][397]LogBlueprintUserMessages: [FlyingPawn_C_0] 2310.134766
+[2021.11.15-19.43.02:067][398]LogBlueprintUserMessages: [FlyingPawn_C_0] 2314.063965
+[2021.11.15-19.43.02:078][399]LogBlueprintUserMessages: [FlyingPawn_C_0] 2318.048096
+[2021.11.15-19.43.02:088][400]LogBlueprintUserMessages: [FlyingPawn_C_0] 2321.830078
+[2021.11.15-19.43.02:100][401]LogBlueprintUserMessages: [FlyingPawn_C_0] 2326.09082
+[2021.11.15-19.43.02:111][402]LogBlueprintUserMessages: [FlyingPawn_C_0] 2330.309814
+[2021.11.15-19.43.02:122][403]LogBlueprintUserMessages: [FlyingPawn_C_0] 2334.347412
+[2021.11.15-19.43.02:134][404]LogBlueprintUserMessages: [FlyingPawn_C_0] 2338.625732
+[2021.11.15-19.43.02:145][405]LogBlueprintUserMessages: [FlyingPawn_C_0] 2342.544678
+[2021.11.15-19.43.02:156][406]LogBlueprintUserMessages: [FlyingPawn_C_0] 2346.525879
+[2021.11.15-19.43.02:167][407]LogBlueprintUserMessages: [FlyingPawn_C_0] 2350.644531
+[2021.11.15-19.43.02:177][408]LogBlueprintUserMessages: [FlyingPawn_C_0] 2354.571045
+[2021.11.15-19.43.02:188][409]LogBlueprintUserMessages: [FlyingPawn_C_0] 2358.513672
+[2021.11.15-19.43.02:199][410]LogBlueprintUserMessages: [FlyingPawn_C_0] 2362.526123
+[2021.11.15-19.43.02:210][411]LogBlueprintUserMessages: [FlyingPawn_C_0] 2366.487549
+[2021.11.15-19.43.02:220][412]LogBlueprintUserMessages: [FlyingPawn_C_0] 2370.339111
+[2021.11.15-19.43.02:234][413]LogBlueprintUserMessages: [FlyingPawn_C_0] 2375.574219
+[2021.11.15-19.43.02:245][414]LogBlueprintUserMessages: [FlyingPawn_C_0] 2379.621094
+[2021.11.15-19.43.02:256][415]LogBlueprintUserMessages: [FlyingPawn_C_0] 2383.541504
+[2021.11.15-19.43.02:270][416]LogBlueprintUserMessages: [FlyingPawn_C_0] 2388.544678
+[2021.11.15-19.43.02:281][417]LogBlueprintUserMessages: [FlyingPawn_C_0] 2392.564941
+[2021.11.15-19.43.02:292][418]LogBlueprintUserMessages: [FlyingPawn_C_0] 2396.606201
+[2021.11.15-19.43.02:304][419]LogBlueprintUserMessages: [FlyingPawn_C_0] 2400.95752
+[2021.11.15-19.43.02:315][420]LogBlueprintUserMessages: [FlyingPawn_C_0] 2405.039551
+[2021.11.15-19.43.02:326][421]LogBlueprintUserMessages: [FlyingPawn_C_0] 2409.063232
+[2021.11.15-19.43.02:337][422]LogBlueprintUserMessages: [FlyingPawn_C_0] 2413.13208
+[2021.11.15-19.43.02:349][423]LogBlueprintUserMessages: [FlyingPawn_C_0] 2417.399902
+[2021.11.15-19.43.02:362][424]LogBlueprintUserMessages: [FlyingPawn_C_0] 2421.772461
+[2021.11.15-19.43.02:373][425]LogBlueprintUserMessages: [FlyingPawn_C_0] 2425.74292
+[2021.11.15-19.43.02:385][426]LogBlueprintUserMessages: [FlyingPawn_C_0] 2429.890869
+[2021.11.15-19.43.02:398][427]LogBlueprintUserMessages: [FlyingPawn_C_0] 2434.705566
+[2021.11.15-19.43.02:411][428]LogBlueprintUserMessages: [FlyingPawn_C_0] 2439.493164
+[2021.11.15-19.43.02:422][429]LogBlueprintUserMessages: [FlyingPawn_C_0] 2443.569824
+[2021.11.15-19.43.02:434][430]LogBlueprintUserMessages: [FlyingPawn_C_0] 2447.745361
+[2021.11.15-19.43.02:444][431]LogBlueprintUserMessages: [FlyingPawn_C_0] 2451.578857
+[2021.11.15-19.43.02:455][432]LogBlueprintUserMessages: [FlyingPawn_C_0] 2455.619629
+[2021.11.15-19.43.02:466][433]LogBlueprintUserMessages: [FlyingPawn_C_0] 2459.928711
+[2021.11.15-19.43.02:477][434]LogBlueprintUserMessages: [FlyingPawn_C_0] 2463.703125
+[2021.11.15-19.43.02:488][435]LogBlueprintUserMessages: [FlyingPawn_C_0] 2467.890381
+[2021.11.15-19.43.02:501][436]LogBlueprintUserMessages: [FlyingPawn_C_0] 2472.127441
+[2021.11.15-19.43.02:512][437]LogBlueprintUserMessages: [FlyingPawn_C_0] 2476.168701
+[2021.11.15-19.43.02:523][438]LogBlueprintUserMessages: [FlyingPawn_C_0] 2480.145996
+[2021.11.15-19.43.02:534][439]LogBlueprintUserMessages: [FlyingPawn_C_0] 2484.088867
+[2021.11.15-19.43.02:545][440]LogBlueprintUserMessages: [FlyingPawn_C_0] 2488.172607
+[2021.11.15-19.43.02:557][441]LogBlueprintUserMessages: [FlyingPawn_C_0] 2492.592529
+[2021.11.15-19.43.02:570][442]LogBlueprintUserMessages: [FlyingPawn_C_0] 2497.282227
+[2021.11.15-19.43.02:580][443]LogBlueprintUserMessages: [FlyingPawn_C_0] 2501.292725
+[2021.11.15-19.43.02:591][444]LogBlueprintUserMessages: [FlyingPawn_C_0] 2505.190674
+[2021.11.15-19.43.02:605][445]LogBlueprintUserMessages: [FlyingPawn_C_0] 2510.44043
+[2021.11.15-19.43.02:617][446]LogBlueprintUserMessages: [FlyingPawn_C_0] 2514.86792
+[2021.11.15-19.43.02:631][447]LogBlueprintUserMessages: [FlyingPawn_C_0] 2519.831543
+[2021.11.15-19.43.02:644][448]LogBlueprintUserMessages: [FlyingPawn_C_0] 2524.669189
+[2021.11.15-19.43.02:655][449]LogBlueprintUserMessages: [FlyingPawn_C_0] 2528.812988
+[2021.11.15-19.43.02:667][450]LogBlueprintUserMessages: [FlyingPawn_C_0] 2533.176758
+[2021.11.15-19.43.02:679][451]LogBlueprintUserMessages: [FlyingPawn_C_0] 2537.374268
+[2021.11.15-19.43.02:690][452]LogBlueprintUserMessages: [FlyingPawn_C_0] 2541.532715
+[2021.11.15-19.43.02:703][453]LogBlueprintUserMessages: [FlyingPawn_C_0] 2546.230713
+[2021.11.15-19.43.02:714][454]LogBlueprintUserMessages: [FlyingPawn_C_0] 2550.350098
+[2021.11.15-19.43.02:725][455]LogBlueprintUserMessages: [FlyingPawn_C_0] 2554.257568
+[2021.11.15-19.43.02:738][456]LogBlueprintUserMessages: [FlyingPawn_C_0] 2558.81665
+[2021.11.15-19.43.02:749][457]LogBlueprintUserMessages: [FlyingPawn_C_0] 2562.789307
+[2021.11.15-19.43.02:759][458]LogBlueprintUserMessages: [FlyingPawn_C_0] 2566.756348
+[2021.11.15-19.43.02:770][459]LogBlueprintUserMessages: [FlyingPawn_C_0] 2570.86084
+[2021.11.15-19.43.02:783][460]LogBlueprintUserMessages: [FlyingPawn_C_0] 2575.561523
+[2021.11.15-19.43.02:794][461]LogBlueprintUserMessages: [FlyingPawn_C_0] 2579.812988
+[2021.11.15-19.43.02:805][462]LogBlueprintUserMessages: [FlyingPawn_C_0] 2584.05835
+[2021.11.15-19.43.02:816][463]LogBlueprintUserMessages: [FlyingPawn_C_0] 2588.200195
+[2021.11.15-19.43.02:827][464]LogBlueprintUserMessages: [FlyingPawn_C_0] 2592.151611
+[2021.11.15-19.43.02:838][465]LogBlueprintUserMessages: [FlyingPawn_C_0] 2596.156982
+[2021.11.15-19.43.02:849][466]LogBlueprintUserMessages: [FlyingPawn_C_0] 2600.14624
+[2021.11.15-19.43.02:860][467]LogBlueprintUserMessages: [FlyingPawn_C_0] 2604.192139
+[2021.11.15-19.43.02:871][468]LogBlueprintUserMessages: [FlyingPawn_C_0] 2608.272461
+[2021.11.15-19.43.02:883][469]LogBlueprintUserMessages: [FlyingPawn_C_0] 2612.760742
+[2021.11.15-19.43.02:894][470]LogBlueprintUserMessages: [FlyingPawn_C_0] 2616.730225
+[2021.11.15-19.43.02:905][471]LogBlueprintUserMessages: [FlyingPawn_C_0] 2620.875488
+[2021.11.15-19.43.02:916][472]LogBlueprintUserMessages: [FlyingPawn_C_0] 2624.933594
+[2021.11.15-19.43.02:928][473]LogBlueprintUserMessages: [FlyingPawn_C_0] 2629.020752
+[2021.11.15-19.43.02:939][474]LogBlueprintUserMessages: [FlyingPawn_C_0] 2633.210693
+[2021.11.15-19.43.02:950][475]LogBlueprintUserMessages: [FlyingPawn_C_0] 2637.234375
+[2021.11.15-19.43.02:960][476]LogBlueprintUserMessages: [FlyingPawn_C_0] 2641.17334
+[2021.11.15-19.43.02:972][477]LogBlueprintUserMessages: [FlyingPawn_C_0] 2645.24585
+[2021.11.15-19.43.02:983][478]LogBlueprintUserMessages: [FlyingPawn_C_0] 2649.219971
+[2021.11.15-19.43.02:995][479]LogBlueprintUserMessages: [FlyingPawn_C_0] 2653.450928
+[2021.11.15-19.43.03:006][480]LogBlueprintUserMessages: [FlyingPawn_C_0] 2657.54834
+[2021.11.15-19.43.03:017][481]LogBlueprintUserMessages: [FlyingPawn_C_0] 2661.85498
+[2021.11.15-19.43.03:028][482]LogBlueprintUserMessages: [FlyingPawn_C_0] 2665.80542
+[2021.11.15-19.43.03:040][483]LogBlueprintUserMessages: [FlyingPawn_C_0] 2670.398438
+[2021.11.15-19.43.03:051][484]LogBlueprintUserMessages: [FlyingPawn_C_0] 2674.555176
+[2021.11.15-19.43.03:064][485]LogBlueprintUserMessages: [FlyingPawn_C_0] 2679.198486
+[2021.11.15-19.43.03:075][486]LogBlueprintUserMessages: [FlyingPawn_C_0] 2683.349609
+[2021.11.15-19.43.03:087][487]LogBlueprintUserMessages: [FlyingPawn_C_0] 2687.519775
+[2021.11.15-19.43.03:097][488]LogBlueprintUserMessages: [FlyingPawn_C_0] 2691.47876
+[2021.11.15-19.43.03:109][489]LogBlueprintUserMessages: [FlyingPawn_C_0] 2695.838867
+[2021.11.15-19.43.03:122][490]LogBlueprintUserMessages: [FlyingPawn_C_0] 2700.536865
+[2021.11.15-19.43.03:133][491]LogBlueprintUserMessages: [FlyingPawn_C_0] 2704.619385
+[2021.11.15-19.43.03:143][492]LogBlueprintUserMessages: [FlyingPawn_C_0] 2708.598145
+[2021.11.15-19.43.03:155][493]LogBlueprintUserMessages: [FlyingPawn_C_0] 2712.913086
+[2021.11.15-19.43.03:166][494]LogBlueprintUserMessages: [FlyingPawn_C_0] 2717.06958
+[2021.11.15-19.43.03:177][495]LogBlueprintUserMessages: [FlyingPawn_C_0] 2720.972656
+[2021.11.15-19.43.03:189][496]LogBlueprintUserMessages: [FlyingPawn_C_0] 2724.940186
+[2021.11.15-19.43.03:200][497]LogBlueprintUserMessages: [FlyingPawn_C_0] 2729.14209
+[2021.11.15-19.43.03:210][498]LogBlueprintUserMessages: [FlyingPawn_C_0] 2733.100342
+[2021.11.15-19.43.03:221][499]LogBlueprintUserMessages: [FlyingPawn_C_0] 2737.005615
+[2021.11.15-19.43.03:232][500]LogBlueprintUserMessages: [FlyingPawn_C_0] 2741.244629
+[2021.11.15-19.43.03:244][501]LogBlueprintUserMessages: [FlyingPawn_C_0] 2745.366211
+[2021.11.15-19.43.03:256][502]LogBlueprintUserMessages: [FlyingPawn_C_0] 2749.820068
+[2021.11.15-19.43.03:267][503]LogBlueprintUserMessages: [FlyingPawn_C_0] 2753.892578
+[2021.11.15-19.43.03:278][504]LogBlueprintUserMessages: [FlyingPawn_C_0] 2758.104004
+[2021.11.15-19.43.03:288][505]LogBlueprintUserMessages: [FlyingPawn_C_0] 2762.036377
+[2021.11.15-19.43.03:301][506]LogBlueprintUserMessages: [FlyingPawn_C_0] 2766.260986
+[2021.11.15-19.43.03:312][507]LogBlueprintUserMessages: [FlyingPawn_C_0] 2770.591797
+[2021.11.15-19.43.03:324][508]LogBlueprintUserMessages: [FlyingPawn_C_0] 2774.872559
+[2021.11.15-19.43.03:335][509]LogBlueprintUserMessages: [FlyingPawn_C_0] 2779.366699
+[2021.11.15-19.43.03:346][510]LogBlueprintUserMessages: [FlyingPawn_C_0] 2783.418213
+[2021.11.15-19.43.03:357][511]LogBlueprintUserMessages: [FlyingPawn_C_0] 2787.394775
+[2021.11.15-19.43.03:369][512]LogBlueprintUserMessages: [FlyingPawn_C_0] 2791.408203
+[2021.11.15-19.43.03:379][513]LogBlueprintUserMessages: [FlyingPawn_C_0] 2795.41748
+[2021.11.15-19.43.03:392][514]LogBlueprintUserMessages: [FlyingPawn_C_0] 2800.017334
+[2021.11.15-19.43.03:404][515]LogBlueprintUserMessages: [FlyingPawn_C_0] 2804.402832
+[2021.11.15-19.43.03:414][516]LogBlueprintUserMessages: [FlyingPawn_C_0] 2808.270752
+[2021.11.15-19.43.03:425][517]LogBlueprintUserMessages: [FlyingPawn_C_0] 2812.36499
+[2021.11.15-19.43.03:436][518]LogBlueprintUserMessages: [FlyingPawn_C_0] 2816.456299
+[2021.11.15-19.43.03:447][519]LogBlueprintUserMessages: [FlyingPawn_C_0] 2820.416748
+[2021.11.15-19.43.03:457][520]LogBlueprintUserMessages: [FlyingPawn_C_0] 2824.304688
+[2021.11.15-19.43.03:468][521]LogBlueprintUserMessages: [FlyingPawn_C_0] 2828.293213
+[2021.11.15-19.43.03:479][522]LogBlueprintUserMessages: [FlyingPawn_C_0] 2832.505127
+[2021.11.15-19.43.03:490][523]LogBlueprintUserMessages: [FlyingPawn_C_0] 2836.406006
+[2021.11.15-19.43.03:503][524]LogBlueprintUserMessages: [FlyingPawn_C_0] 2841.08252
+[2021.11.15-19.43.03:515][525]LogBlueprintUserMessages: [FlyingPawn_C_0] 2845.583984
+[2021.11.15-19.43.03:526][526]LogBlueprintUserMessages: [FlyingPawn_C_0] 2849.515625
+[2021.11.15-19.43.03:537][527]LogBlueprintUserMessages: [FlyingPawn_C_0] 2853.665771
+[2021.11.15-19.43.03:548][528]LogBlueprintUserMessages: [FlyingPawn_C_0] 2857.743896
+[2021.11.15-19.43.03:559][529]LogBlueprintUserMessages: [FlyingPawn_C_0] 2861.620117
+[2021.11.15-19.43.03:570][530]LogBlueprintUserMessages: [FlyingPawn_C_0] 2865.651367
+[2021.11.15-19.43.03:581][531]LogBlueprintUserMessages: [FlyingPawn_C_0] 2869.713135
+[2021.11.15-19.43.03:591][532]LogBlueprintUserMessages: [FlyingPawn_C_0] 2873.650635
+[2021.11.15-19.43.03:605][533]LogBlueprintUserMessages: [FlyingPawn_C_0] 2878.614258
+[2021.11.15-19.43.03:617][534]LogBlueprintUserMessages: [FlyingPawn_C_0] 2883.175049
+[2021.11.15-19.43.03:631][535]LogBlueprintUserMessages: [FlyingPawn_C_0] 2887.994629
+[2021.11.15-19.43.03:645][536]LogBlueprintUserMessages: [FlyingPawn_C_0] 2893.106689
+[2021.11.15-19.43.03:656][537]LogBlueprintUserMessages: [FlyingPawn_C_0] 2897.337158
+[2021.11.15-19.43.03:667][538]LogBlueprintUserMessages: [FlyingPawn_C_0] 2901.362305
+[2021.11.15-19.43.03:678][539]LogBlueprintUserMessages: [FlyingPawn_C_0] 2905.583008
+[2021.11.15-19.43.03:689][540]LogBlueprintUserMessages: [FlyingPawn_C_0] 2909.759521
+[2021.11.15-19.43.03:702][541]LogBlueprintUserMessages: [FlyingPawn_C_0] 2914.421631
+[2021.11.15-19.43.03:713][542]LogBlueprintUserMessages: [FlyingPawn_C_0] 2918.446533
+[2021.11.15-19.43.03:723][543]LogBlueprintUserMessages: [FlyingPawn_C_0] 2922.331787
+[2021.11.15-19.43.03:735][544]LogBlueprintUserMessages: [FlyingPawn_C_0] 2926.541504
+[2021.11.15-19.43.03:746][545]LogBlueprintUserMessages: [FlyingPawn_C_0] 2930.703125
+[2021.11.15-19.43.03:759][546]LogBlueprintUserMessages: [FlyingPawn_C_0] 2935.519043
+[2021.11.15-19.43.03:777][547]LogBlueprintUserMessages: [FlyingPawn_C_0] 2941.953125
+[2021.11.15-19.43.03:788][548]LogBlueprintUserMessages: [FlyingPawn_C_0] 2946.233887
+[2021.11.15-19.43.03:800][549]LogBlueprintUserMessages: [FlyingPawn_C_0] 2950.550781
+[2021.11.15-19.43.03:811][550]LogBlueprintUserMessages: [FlyingPawn_C_0] 2954.532471
+[2021.11.15-19.43.03:823][551]LogBlueprintUserMessages: [FlyingPawn_C_0] 2958.966797
+[2021.11.15-19.43.03:834][552]LogBlueprintUserMessages: [FlyingPawn_C_0] 2963.174561
+[2021.11.15-19.43.03:846][553]LogBlueprintUserMessages: [FlyingPawn_C_0] 2967.508301
+[2021.11.15-19.43.03:858][554]LogBlueprintUserMessages: [FlyingPawn_C_0] 2971.831055
+[2021.11.15-19.43.03:870][555]LogBlueprintUserMessages: [FlyingPawn_C_0] 2976.130615
+[2021.11.15-19.43.03:880][556]LogBlueprintUserMessages: [FlyingPawn_C_0] 2980.054443
+[2021.11.15-19.43.03:891][557]LogBlueprintUserMessages: [FlyingPawn_C_0] 2984.015137
+[2021.11.15-19.43.03:904][558]LogBlueprintUserMessages: [FlyingPawn_C_0] 2988.760742
+[2021.11.15-19.43.03:915][559]LogBlueprintUserMessages: [FlyingPawn_C_0] 2992.761475
+[2021.11.15-19.43.03:926][560]LogBlueprintUserMessages: [FlyingPawn_C_0] 2996.8125
+[2021.11.15-19.43.03:937][561]LogBlueprintUserMessages: [FlyingPawn_C_0] 3001.008301
+[2021.11.15-19.43.03:948][562]LogBlueprintUserMessages: [FlyingPawn_C_0] 3005.135742
+[2021.11.15-19.43.03:959][563]LogBlueprintUserMessages: [FlyingPawn_C_0] 3009.025635
+[2021.11.15-19.43.03:970][564]LogBlueprintUserMessages: [FlyingPawn_C_0] 3013.142334
+[2021.11.15-19.43.03:981][565]LogBlueprintUserMessages: [FlyingPawn_C_0] 3017.167236
+[2021.11.15-19.43.03:992][566]LogBlueprintUserMessages: [FlyingPawn_C_0] 3021.145508
+[2021.11.15-19.43.04:003][567]LogBlueprintUserMessages: [FlyingPawn_C_0] 3025.334229
+[2021.11.15-19.43.04:014][568]LogBlueprintUserMessages: [FlyingPawn_C_0] 3029.39209
+[2021.11.15-19.43.04:025][569]LogBlueprintUserMessages: [FlyingPawn_C_0] 3033.305664
+[2021.11.15-19.43.04:036][570]LogBlueprintUserMessages: [FlyingPawn_C_0] 3037.364258
+[2021.11.15-19.43.04:047][571]LogBlueprintUserMessages: [FlyingPawn_C_0] 3041.402588
+[2021.11.15-19.43.04:058][572]LogBlueprintUserMessages: [FlyingPawn_C_0] 3045.681641
+[2021.11.15-19.43.04:072][573]LogBlueprintUserMessages: [FlyingPawn_C_0] 3050.631348
+[2021.11.15-19.43.04:083][574]LogBlueprintUserMessages: [FlyingPawn_C_0] 3054.650635
+[2021.11.15-19.43.04:094][575]LogBlueprintUserMessages: [FlyingPawn_C_0] 3058.808594
+[2021.11.15-19.43.04:106][576]LogBlueprintUserMessages: [FlyingPawn_C_0] 3063.25
+[2021.11.15-19.43.04:119][577]LogBlueprintUserMessages: [FlyingPawn_C_0] 3068.200684
+[2021.11.15-19.43.04:130][578]LogBlueprintUserMessages: [FlyingPawn_C_0] 3072.405518
+[2021.11.15-19.43.04:143][579]LogBlueprintUserMessages: [FlyingPawn_C_0] 3077.15918
+[2021.11.15-19.43.04:154][580]LogBlueprintUserMessages: [FlyingPawn_C_0] 3081.171143
+[2021.11.15-19.43.04:165][581]LogBlueprintUserMessages: [FlyingPawn_C_0] 3085.386719
+[2021.11.15-19.43.04:176][582]LogBlueprintUserMessages: [FlyingPawn_C_0] 3089.392334
+[2021.11.15-19.43.04:189][583]LogBlueprintUserMessages: [FlyingPawn_C_0] 3093.888916
+[2021.11.15-19.43.04:200][584]LogBlueprintUserMessages: [FlyingPawn_C_0] 3098.122314
+[2021.11.15-19.43.04:211][585]LogBlueprintUserMessages: [FlyingPawn_C_0] 3102.125732
+[2021.11.15-19.43.04:223][586]LogBlueprintUserMessages: [FlyingPawn_C_0] 3106.67041
+[2021.11.15-19.43.04:236][587]LogBlueprintUserMessages: [FlyingPawn_C_0] 3111.229004
+[2021.11.15-19.43.04:246][588]LogBlueprintUserMessages: [FlyingPawn_C_0] 3115.193115
+[2021.11.15-19.43.04:257][589]LogBlueprintUserMessages: [FlyingPawn_C_0] 3119.203369
+[2021.11.15-19.43.04:269][590]LogBlueprintUserMessages: [FlyingPawn_C_0] 3123.349609
+[2021.11.15-19.43.04:279][591]LogBlueprintUserMessages: [FlyingPawn_C_0] 3127.393066
+[2021.11.15-19.43.04:290][592]LogBlueprintUserMessages: [FlyingPawn_C_0] 3131.226562
+[2021.11.15-19.43.04:301][593]LogBlueprintUserMessages: [FlyingPawn_C_0] 3135.304443
+[2021.11.15-19.43.04:312][594]LogBlueprintUserMessages: [FlyingPawn_C_0] 3139.305908
+[2021.11.15-19.43.04:323][595]LogBlueprintUserMessages: [FlyingPawn_C_0] 3143.303955
+[2021.11.15-19.43.04:334][596]LogBlueprintUserMessages: [FlyingPawn_C_0] 3147.368652
+[2021.11.15-19.43.04:344][597]LogBlueprintUserMessages: [FlyingPawn_C_0] 3151.14209
+[2021.11.15-19.43.04:355][598]LogBlueprintUserMessages: [FlyingPawn_C_0] 3155.156006
+[2021.11.15-19.43.04:367][599]LogBlueprintUserMessages: [FlyingPawn_C_0] 3159.748291
+[2021.11.15-19.43.04:378][600]LogBlueprintUserMessages: [FlyingPawn_C_0] 3163.828857
+[2021.11.15-19.43.04:389][601]LogBlueprintUserMessages: [FlyingPawn_C_0] 3167.864258
+[2021.11.15-19.43.04:400][602]LogBlueprintUserMessages: [FlyingPawn_C_0] 3171.944824
+[2021.11.15-19.43.04:412][603]LogBlueprintUserMessages: [FlyingPawn_C_0] 3176.073242
+[2021.11.15-19.43.04:423][604]LogBlueprintUserMessages: [FlyingPawn_C_0] 3180.111816
+[2021.11.15-19.43.04:434][605]LogBlueprintUserMessages: [FlyingPawn_C_0] 3184.253906
+[2021.11.15-19.43.04:445][606]LogBlueprintUserMessages: [FlyingPawn_C_0] 3188.327637
+[2021.11.15-19.43.04:455][607]LogBlueprintUserMessages: [FlyingPawn_C_0] 3192.233887
+[2021.11.15-19.43.04:467][608]LogBlueprintUserMessages: [FlyingPawn_C_0] 3196.393799
+[2021.11.15-19.43.04:477][609]LogBlueprintUserMessages: [FlyingPawn_C_0] 3200.169678
+[2021.11.15-19.43.04:488][610]LogBlueprintUserMessages: [FlyingPawn_C_0] 3204.143555
+[2021.11.15-19.43.04:499][611]LogBlueprintUserMessages: [FlyingPawn_C_0] 3208.251221
+[2021.11.15-19.43.04:510][612]LogBlueprintUserMessages: [FlyingPawn_C_0] 3212.329346
+[2021.11.15-19.43.04:520][613]LogBlueprintUserMessages: [FlyingPawn_C_0] 3216.301758
+[2021.11.15-19.43.04:532][614]LogBlueprintUserMessages: [FlyingPawn_C_0] 3220.327393
+[2021.11.15-19.43.04:544][615]LogBlueprintUserMessages: [FlyingPawn_C_0] 3224.909424
+[2021.11.15-19.43.04:556][616]LogBlueprintUserMessages: [FlyingPawn_C_0] 3229.182861
+[2021.11.15-19.43.04:567][617]LogBlueprintUserMessages: [FlyingPawn_C_0] 3233.467285
+[2021.11.15-19.43.04:578][618]LogBlueprintUserMessages: [FlyingPawn_C_0] 3237.567383
+[2021.11.15-19.43.04:590][619]LogBlueprintUserMessages: [FlyingPawn_C_0] 3241.851074
+[2021.11.15-19.43.04:605][620]LogBlueprintUserMessages: [FlyingPawn_C_0] 3247.535645
+[2021.11.15-19.43.04:621][621]LogBlueprintUserMessages: [FlyingPawn_C_0] 3253.138916
+[2021.11.15-19.43.04:634][622]LogBlueprintUserMessages: [FlyingPawn_C_0] 3258.202637
+[2021.11.15-19.43.04:648][623]LogBlueprintUserMessages: [FlyingPawn_C_0] 3263.116455
+[2021.11.15-19.43.04:659][624]LogBlueprintUserMessages: [FlyingPawn_C_0] 3267.414795
+[2021.11.15-19.43.04:670][625]LogBlueprintUserMessages: [FlyingPawn_C_0] 3271.511719
+[2021.11.15-19.43.04:681][626]LogBlueprintUserMessages: [FlyingPawn_C_0] 3275.630127
+[2021.11.15-19.43.04:693][627]LogBlueprintUserMessages: [FlyingPawn_C_0] 3279.945068
+[2021.11.15-19.43.04:706][628]LogBlueprintUserMessages: [FlyingPawn_C_0] 3284.57959
+[2021.11.15-19.43.04:721][629]LogBlueprintUserMessages: [FlyingPawn_C_0] 3290.2229
+[2021.11.15-19.43.04:736][630]LogBlueprintUserMessages: [FlyingPawn_C_0] 3295.775635
+[2021.11.15-19.43.04:750][631]LogBlueprintUserMessages: [FlyingPawn_C_0] 3301.028076
+[2021.11.15-19.43.04:765][632]LogBlueprintUserMessages: [FlyingPawn_C_0] 3306.339111
+[2021.11.15-19.43.04:776][633]LogBlueprintUserMessages: [FlyingPawn_C_0] 3310.473389
+[2021.11.15-19.43.04:787][634]LogBlueprintUserMessages: [FlyingPawn_C_0] 3314.65332
+[2021.11.15-19.43.04:798][635]LogBlueprintUserMessages: [FlyingPawn_C_0] 3318.583252
+[2021.11.15-19.43.04:809][636]LogBlueprintUserMessages: [FlyingPawn_C_0] 3322.628174
+[2021.11.15-19.43.04:820][637]LogBlueprintUserMessages: [FlyingPawn_C_0] 3326.723877
+[2021.11.15-19.43.04:831][638]LogBlueprintUserMessages: [FlyingPawn_C_0] 3330.564453
+[2021.11.15-19.43.04:844][639]LogBlueprintUserMessages: [FlyingPawn_C_0] 3335.538574
+[2021.11.15-19.43.04:856][640]LogBlueprintUserMessages: [FlyingPawn_C_0] 3339.685791
+[2021.11.15-19.43.04:868][641]LogBlueprintUserMessages: [FlyingPawn_C_0] 3344.193359
+[2021.11.15-19.43.04:879][642]LogBlueprintUserMessages: [FlyingPawn_C_0] 3348.394043
+[2021.11.15-19.43.04:890][643]LogBlueprintUserMessages: [FlyingPawn_C_0] 3352.397217
+[2021.11.15-19.43.04:901][644]LogBlueprintUserMessages: [FlyingPawn_C_0] 3356.470215
+[2021.11.15-19.43.04:912][645]LogBlueprintUserMessages: [FlyingPawn_C_0] 3360.543701
+[2021.11.15-19.43.04:923][646]LogBlueprintUserMessages: [FlyingPawn_C_0] 3364.49292
+[2021.11.15-19.43.04:934][647]LogBlueprintUserMessages: [FlyingPawn_C_0] 3368.693848
+[2021.11.15-19.43.04:945][648]LogBlueprintUserMessages: [FlyingPawn_C_0] 3372.702637
+[2021.11.15-19.43.04:956][649]LogBlueprintUserMessages: [FlyingPawn_C_0] 3376.699219
+[2021.11.15-19.43.04:968][650]LogBlueprintUserMessages: [FlyingPawn_C_0] 3380.976807
+[2021.11.15-19.43.04:978][651]LogBlueprintUserMessages: [FlyingPawn_C_0] 3384.93335
+[2021.11.15-19.43.04:989][652]LogBlueprintUserMessages: [FlyingPawn_C_0] 3388.900146
+[2021.11.15-19.43.05:000][653]LogBlueprintUserMessages: [FlyingPawn_C_0] 3392.92334
+[2021.11.15-19.43.05:011][654]LogBlueprintUserMessages: [FlyingPawn_C_0] 3396.905029
+[2021.11.15-19.43.05:022][655]LogBlueprintUserMessages: [FlyingPawn_C_0] 3401.042969
+[2021.11.15-19.43.05:036][656]LogBlueprintUserMessages: [FlyingPawn_C_0] 3406.138916
+[2021.11.15-19.43.05:047][657]LogBlueprintUserMessages: [FlyingPawn_C_0] 3410.224365
+[2021.11.15-19.43.05:058][658]LogBlueprintUserMessages: [FlyingPawn_C_0] 3414.165039
+[2021.11.15-19.43.05:069][659]LogBlueprintUserMessages: [FlyingPawn_C_0] 3418.427734
+[2021.11.15-19.43.05:080][660]LogBlueprintUserMessages: [FlyingPawn_C_0] 3422.367188
+[2021.11.15-19.43.05:091][661]LogBlueprintUserMessages: [FlyingPawn_C_0] 3426.317383
+[2021.11.15-19.43.05:104][662]LogBlueprintUserMessages: [FlyingPawn_C_0] 3431.161133
+[2021.11.15-19.43.05:115][663]LogBlueprintUserMessages: [FlyingPawn_C_0] 3435.188477
+[2021.11.15-19.43.05:126][664]LogBlueprintUserMessages: [FlyingPawn_C_0] 3439.396484
+[2021.11.15-19.43.05:138][665]LogBlueprintUserMessages: [FlyingPawn_C_0] 3443.560059
+[2021.11.15-19.43.05:149][666]LogBlueprintUserMessages: [FlyingPawn_C_0] 3447.918213
+[2021.11.15-19.43.05:161][667]LogBlueprintUserMessages: [FlyingPawn_C_0] 3452.143799
+[2021.11.15-19.43.05:172][668]LogBlueprintUserMessages: [FlyingPawn_C_0] 3456.400879
+[2021.11.15-19.43.05:183][669]LogBlueprintUserMessages: [FlyingPawn_C_0] 3460.614258
+[2021.11.15-19.43.05:194][670]LogBlueprintUserMessages: [FlyingPawn_C_0] 3464.606201
+[2021.11.15-19.43.05:205][671]LogBlueprintUserMessages: [FlyingPawn_C_0] 3468.696289
+[2021.11.15-19.43.05:216][672]LogBlueprintUserMessages: [FlyingPawn_C_0] 3472.72168
+[2021.11.15-19.43.05:227][673]LogBlueprintUserMessages: [FlyingPawn_C_0] 3476.757568
+[2021.11.15-19.43.05:238][674]LogBlueprintUserMessages: [FlyingPawn_C_0] 3480.954346
+[2021.11.15-19.43.05:249][675]LogBlueprintUserMessages: [FlyingPawn_C_0] 3484.997314
+[2021.11.15-19.43.05:261][676]LogBlueprintUserMessages: [FlyingPawn_C_0] 3489.17334
+[2021.11.15-19.43.05:272][677]LogBlueprintUserMessages: [FlyingPawn_C_0] 3493.282959
+[2021.11.15-19.43.05:283][678]LogBlueprintUserMessages: [FlyingPawn_C_0] 3497.220459
+[2021.11.15-19.43.05:294][679]LogBlueprintUserMessages: [FlyingPawn_C_0] 3501.281006
+[2021.11.15-19.43.05:305][680]LogBlueprintUserMessages: [FlyingPawn_C_0] 3505.301025
+[2021.11.15-19.43.05:315][681]LogBlueprintUserMessages: [FlyingPawn_C_0] 3509.236572
+[2021.11.15-19.43.05:326][682]LogBlueprintUserMessages: [FlyingPawn_C_0] 3513.185791
+[2021.11.15-19.43.05:337][683]LogBlueprintUserMessages: [FlyingPawn_C_0] 3517.242432
+[2021.11.15-19.43.05:348][684]LogBlueprintUserMessages: [FlyingPawn_C_0] 3521.264404
+[2021.11.15-19.43.05:359][685]LogBlueprintUserMessages: [FlyingPawn_C_0] 3525.207764
+[2021.11.15-19.43.05:370][686]LogBlueprintUserMessages: [FlyingPawn_C_0] 3529.280273
+[2021.11.15-19.43.05:380][687]LogBlueprintUserMessages: [FlyingPawn_C_0] 3533.205078
+[2021.11.15-19.43.05:391][688]LogBlueprintUserMessages: [FlyingPawn_C_0] 3537.213867
+[2021.11.15-19.43.05:403][689]LogBlueprintUserMessages: [FlyingPawn_C_0] 3541.425537
+[2021.11.15-19.43.05:414][690]LogBlueprintUserMessages: [FlyingPawn_C_0] 3545.530762
+[2021.11.15-19.43.05:424][691]LogBlueprintUserMessages: [FlyingPawn_C_0] 3549.490479
+[2021.11.15-19.43.05:436][692]LogBlueprintUserMessages: [FlyingPawn_C_0] 3553.560059
+[2021.11.15-19.43.05:447][693]LogBlueprintUserMessages: [FlyingPawn_C_0] 3557.805908
+[2021.11.15-19.43.05:459][694]LogBlueprintUserMessages: [FlyingPawn_C_0] 3561.903564
+[2021.11.15-19.43.05:470][695]LogBlueprintUserMessages: [FlyingPawn_C_0] 3566.088135
+[2021.11.15-19.43.05:482][696]LogBlueprintUserMessages: [FlyingPawn_C_0] 3570.523193
+[2021.11.15-19.43.05:493][697]LogBlueprintUserMessages: [FlyingPawn_C_0] 3574.812988
+[2021.11.15-19.43.05:505][698]LogBlueprintUserMessages: [FlyingPawn_C_0] 3579.129639
+[2021.11.15-19.43.05:517][699]LogBlueprintUserMessages: [FlyingPawn_C_0] 3583.464355
+[2021.11.15-19.43.05:528][700]LogBlueprintUserMessages: [FlyingPawn_C_0] 3587.64624
+[2021.11.15-19.43.05:540][701]LogBlueprintUserMessages: [FlyingPawn_C_0] 3591.866943
+[2021.11.15-19.43.05:551][702]LogBlueprintUserMessages: [FlyingPawn_C_0] 3596.087646
+[2021.11.15-19.43.05:562][703]LogBlueprintUserMessages: [FlyingPawn_C_0] 3600.147461
+[2021.11.15-19.43.05:573][704]LogBlueprintUserMessages: [FlyingPawn_C_0] 3604.254639
+[2021.11.15-19.43.05:585][705]LogBlueprintUserMessages: [FlyingPawn_C_0] 3608.467529
+[2021.11.15-19.43.05:596][706]LogBlueprintUserMessages: [FlyingPawn_C_0] 3612.506836
+[2021.11.15-19.43.05:611][707]LogBlueprintUserMessages: [FlyingPawn_C_0] 3618.087891
+[2021.11.15-19.43.05:624][708]LogBlueprintUserMessages: [FlyingPawn_C_0] 3622.681152
+[2021.11.15-19.43.05:637][709]LogBlueprintUserMessages: [FlyingPawn_C_0] 3627.841797
+[2021.11.15-19.43.05:651][710]LogBlueprintUserMessages: [FlyingPawn_C_0] 3632.836914
+[2021.11.15-19.43.05:662][711]LogBlueprintUserMessages: [FlyingPawn_C_0] 3636.833984
+[2021.11.15-19.43.05:673][712]LogBlueprintUserMessages: [FlyingPawn_C_0] 3640.998291
+[2021.11.15-19.43.05:684][713]LogBlueprintUserMessages: [FlyingPawn_C_0] 3645.080322
+[2021.11.15-19.43.05:695][714]LogBlueprintUserMessages: [FlyingPawn_C_0] 3649.287354
+[2021.11.15-19.43.05:706][715]LogBlueprintUserMessages: [FlyingPawn_C_0] 3653.261719
+[2021.11.15-19.43.05:718][716]LogBlueprintUserMessages: [FlyingPawn_C_0] 3657.452881
+[2021.11.15-19.43.05:729][717]LogBlueprintUserMessages: [FlyingPawn_C_0] 3661.530273
+[2021.11.15-19.43.05:740][718]LogBlueprintUserMessages: [FlyingPawn_C_0] 3665.58374
+[2021.11.15-19.43.05:752][719]LogBlueprintUserMessages: [FlyingPawn_C_0] 3670.118652
+[2021.11.15-19.43.05:764][720]LogBlueprintUserMessages: [FlyingPawn_C_0] 3674.585938
+[2021.11.15-19.43.05:776][721]LogBlueprintUserMessages: [FlyingPawn_C_0] 3678.894531
+[2021.11.15-19.43.05:787][722]LogBlueprintUserMessages: [FlyingPawn_C_0] 3683.181885
+[2021.11.15-19.43.05:799][723]LogBlueprintUserMessages: [FlyingPawn_C_0] 3687.447021
+[2021.11.15-19.43.05:811][724]LogBlueprintUserMessages: [FlyingPawn_C_0] 3691.512939
+[2021.11.15-19.43.05:822][725]LogBlueprintUserMessages: [FlyingPawn_C_0] 3695.65918
+[2021.11.15-19.43.05:833][726]LogBlueprintUserMessages: [FlyingPawn_C_0] 3699.704102
+[2021.11.15-19.43.05:844][727]LogBlueprintUserMessages: [FlyingPawn_C_0] 3703.836426
+[2021.11.15-19.43.05:855][728]LogBlueprintUserMessages: [FlyingPawn_C_0] 3707.876953
+[2021.11.15-19.43.05:866][729]LogBlueprintUserMessages: [FlyingPawn_C_0] 3712.125
+[2021.11.15-19.43.05:878][730]LogBlueprintUserMessages: [FlyingPawn_C_0] 3716.334229
+[2021.11.15-19.43.05:888][731]LogBlueprintUserMessages: [FlyingPawn_C_0] 3720.200195
+[2021.11.15-19.43.05:899][732]LogBlueprintUserMessages: [FlyingPawn_C_0] 3724.237549
+[2021.11.15-19.43.05:911][733]LogBlueprintUserMessages: [FlyingPawn_C_0] 3728.486816
+[2021.11.15-19.43.05:922][734]LogBlueprintUserMessages: [FlyingPawn_C_0] 3732.468262
+[2021.11.15-19.43.05:933][735]LogBlueprintUserMessages: [FlyingPawn_C_0] 3736.662842
+[2021.11.15-19.43.05:944][736]LogBlueprintUserMessages: [FlyingPawn_C_0] 3740.664307
+[2021.11.15-19.43.05:955][737]LogBlueprintUserMessages: [FlyingPawn_C_0] 3744.769043
+[2021.11.15-19.43.05:966][738]LogBlueprintUserMessages: [FlyingPawn_C_0] 3748.818848
+[2021.11.15-19.43.05:977][739]LogBlueprintUserMessages: [FlyingPawn_C_0] 3752.813477
+[2021.11.15-19.43.05:987][740]LogBlueprintUserMessages: [FlyingPawn_C_0] 3756.823486
+[2021.11.15-19.43.05:998][741]LogBlueprintUserMessages: [FlyingPawn_C_0] 3760.85376
+[2021.11.15-19.43.06:009][742]LogBlueprintUserMessages: [FlyingPawn_C_0] 3765.080322
+[2021.11.15-19.43.06:020][743]LogBlueprintUserMessages: [FlyingPawn_C_0] 3769.061279
+[2021.11.15-19.43.06:032][744]LogBlueprintUserMessages: [FlyingPawn_C_0] 3773.312256
+[2021.11.15-19.43.06:043][745]LogBlueprintUserMessages: [FlyingPawn_C_0] 3777.286133
+[2021.11.15-19.43.06:053][746]LogBlueprintUserMessages: [FlyingPawn_C_0] 3781.219971
+[2021.11.15-19.43.06:065][747]LogBlueprintUserMessages: [FlyingPawn_C_0] 3785.626221
+[2021.11.15-19.43.06:078][748]LogBlueprintUserMessages: [FlyingPawn_C_0] 3790.161377
+[2021.11.15-19.43.06:089][749]LogBlueprintUserMessages: [FlyingPawn_C_0] 3794.204346
+[2021.11.15-19.43.06:101][750]LogBlueprintUserMessages: [FlyingPawn_C_0] 3798.61084
+[2021.11.15-19.43.06:112][751]LogBlueprintUserMessages: [FlyingPawn_C_0] 3802.785889
+[2021.11.15-19.43.06:123][752]LogBlueprintUserMessages: [FlyingPawn_C_0] 3806.757568
+[2021.11.15-19.43.06:134][753]LogBlueprintUserMessages: [FlyingPawn_C_0] 3810.934814
+[2021.11.15-19.43.06:145][754]LogBlueprintUserMessages: [FlyingPawn_C_0] 3814.992676
+[2021.11.15-19.43.06:158][755]LogBlueprintUserMessages: [FlyingPawn_C_0] 3819.897705
+[2021.11.15-19.43.06:170][756]LogBlueprintUserMessages: [FlyingPawn_C_0] 3824.070801
+[2021.11.15-19.43.06:181][757]LogBlueprintUserMessages: [FlyingPawn_C_0] 3828.226562
+[2021.11.15-19.43.06:191][758]LogBlueprintUserMessages: [FlyingPawn_C_0] 3832.104248
+[2021.11.15-19.43.06:204][759]LogBlueprintUserMessages: [FlyingPawn_C_0] 3836.265869
+[2021.11.15-19.43.06:215][760]LogBlueprintUserMessages: [FlyingPawn_C_0] 3840.560059
+[2021.11.15-19.43.06:225][761]LogBlueprintUserMessages: [FlyingPawn_C_0] 3844.439453
+[2021.11.15-19.43.06:237][762]LogBlueprintUserMessages: [FlyingPawn_C_0] 3848.77002
+[2021.11.15-19.43.06:249][763]LogBlueprintUserMessages: [FlyingPawn_C_0] 3852.892578
+[2021.11.15-19.43.06:260][764]LogBlueprintUserMessages: [FlyingPawn_C_0] 3856.914795
+[2021.11.15-19.43.06:271][765]LogBlueprintUserMessages: [FlyingPawn_C_0] 3861.118652
+[2021.11.15-19.43.06:283][766]LogBlueprintUserMessages: [FlyingPawn_C_0] 3865.552002
+[2021.11.15-19.43.06:295][767]LogBlueprintUserMessages: [FlyingPawn_C_0] 3869.625488
+[2021.11.15-19.43.06:306][768]LogBlueprintUserMessages: [FlyingPawn_C_0] 3873.827637
+[2021.11.15-19.43.06:319][769]LogBlueprintUserMessages: [FlyingPawn_C_0] 3878.26416
+[2021.11.15-19.43.06:332][770]LogBlueprintUserMessages: [FlyingPawn_C_0] 3883.083008
+[2021.11.15-19.43.06:348][771]LogBlueprintUserMessages: [FlyingPawn_C_0] 3889.013916
+[2021.11.15-19.43.06:360][772]LogBlueprintUserMessages: [FlyingPawn_C_0] 3893.335693
+[2021.11.15-19.43.06:371][773]LogBlueprintUserMessages: [FlyingPawn_C_0] 3897.650879
+[2021.11.15-19.43.06:383][774]LogBlueprintUserMessages: [FlyingPawn_C_0] 3901.885498
+[2021.11.15-19.43.06:394][775]LogBlueprintUserMessages: [FlyingPawn_C_0] 3905.944092
+[2021.11.15-19.43.06:405][776]LogBlueprintUserMessages: [FlyingPawn_C_0] 3910.132568
+[2021.11.15-19.43.06:416][777]LogBlueprintUserMessages: [FlyingPawn_C_0] 3914.251953
+[2021.11.15-19.43.06:427][778]LogBlueprintUserMessages: [FlyingPawn_C_0] 3918.162842
+[2021.11.15-19.43.06:438][779]LogBlueprintUserMessages: [FlyingPawn_C_0] 3922.337402
+[2021.11.15-19.43.06:450][780]LogBlueprintUserMessages: [FlyingPawn_C_0] 3926.576904
+[2021.11.15-19.43.06:461][781]LogBlueprintUserMessages: [FlyingPawn_C_0] 3930.730469
+[2021.11.15-19.43.06:473][782]LogBlueprintUserMessages: [FlyingPawn_C_0] 3934.918945
+[2021.11.15-19.43.06:484][783]LogBlueprintUserMessages: [FlyingPawn_C_0] 3938.901367
+[2021.11.15-19.43.06:494][784]LogBlueprintUserMessages: [FlyingPawn_C_0] 3942.839355
+[2021.11.15-19.43.06:505][785]LogBlueprintUserMessages: [FlyingPawn_C_0] 3946.730469
+[2021.11.15-19.43.06:516][786]LogBlueprintUserMessages: [FlyingPawn_C_0] 3950.734619
+[2021.11.15-19.43.06:527][787]LogBlueprintUserMessages: [FlyingPawn_C_0] 3954.880371
+[2021.11.15-19.43.06:538][788]LogBlueprintUserMessages: [FlyingPawn_C_0] 3958.944824
+[2021.11.15-19.43.06:550][789]LogBlueprintUserMessages: [FlyingPawn_C_0] 3963.389893
+[2021.11.15-19.43.06:563][790]LogBlueprintUserMessages: [FlyingPawn_C_0] 3968.179443
+[2021.11.15-19.43.06:576][791]LogBlueprintUserMessages: [FlyingPawn_C_0] 3972.813232
+[2021.11.15-19.43.06:587][792]LogBlueprintUserMessages: [FlyingPawn_C_0] 3976.772949
+[2021.11.15-19.43.06:599][793]LogBlueprintUserMessages: [FlyingPawn_C_0] 3981.01123
+[2021.11.15-19.43.06:612][794]LogBlueprintUserMessages: [FlyingPawn_C_0] 3985.707031
+[2021.11.15-19.43.06:625][795]LogBlueprintUserMessages: [FlyingPawn_C_0] 3990.568848
+[2021.11.15-19.43.06:639][796]LogBlueprintUserMessages: [FlyingPawn_C_0] 3995.407471
+[2021.11.15-19.43.06:651][797]LogBlueprintUserMessages: [FlyingPawn_C_0] 3999.67749
+[2021.11.15-19.43.06:662][798]LogBlueprintUserMessages: [FlyingPawn_C_0] 4003.878418
+[2021.11.15-19.43.06:673][799]LogBlueprintUserMessages: [FlyingPawn_C_0] 4008.025146
+[2021.11.15-19.43.06:684][800]LogBlueprintUserMessages: [FlyingPawn_C_0] 4012.038818
+[2021.11.15-19.43.06:694][801]LogBlueprintUserMessages: [FlyingPawn_C_0] 4015.998535
+[2021.11.15-19.43.06:707][802]LogBlueprintUserMessages: [FlyingPawn_C_0] 4020.512207
+[2021.11.15-19.43.06:718][803]LogBlueprintUserMessages: [FlyingPawn_C_0] 4024.758057
+[2021.11.15-19.43.06:730][804]LogBlueprintUserMessages: [FlyingPawn_C_0] 4028.975098
+[2021.11.15-19.43.06:742][805]LogBlueprintUserMessages: [FlyingPawn_C_0] 4033.026855
+[2021.11.15-19.43.06:753][806]LogBlueprintUserMessages: [FlyingPawn_C_0] 4037.064697
+[2021.11.15-19.43.06:764][807]LogBlueprintUserMessages: [FlyingPawn_C_0] 4040.943604
+[2021.11.15-19.43.06:776][808]LogBlueprintUserMessages: [FlyingPawn_C_0] 4045.706299
+[2021.11.15-19.43.06:787][809]LogBlueprintUserMessages: [FlyingPawn_C_0] 4049.532227
+[2021.11.15-19.43.06:799][810]LogBlueprintUserMessages: [FlyingPawn_C_0] 4053.774414
+[2021.11.15-19.43.06:810][811]LogBlueprintUserMessages: [FlyingPawn_C_0] 4058.125244
+[2021.11.15-19.43.06:822][812]LogBlueprintUserMessages: [FlyingPawn_C_0] 4062.347656
+[2021.11.15-19.43.06:834][813]LogBlueprintUserMessages: [FlyingPawn_C_0] 4066.60791
+[2021.11.15-19.43.06:846][814]LogBlueprintUserMessages: [FlyingPawn_C_0] 4070.891846
+[2021.11.15-19.43.06:858][815]LogBlueprintUserMessages: [FlyingPawn_C_0] 4075.308594
+[2021.11.15-19.43.06:871][816]LogBlueprintUserMessages: [FlyingPawn_C_0] 4080.448975
+[2021.11.15-19.43.06:886][817]LogBlueprintUserMessages: [FlyingPawn_C_0] 4085.475342
+[2021.11.15-19.43.06:899][818]LogBlueprintUserMessages: [FlyingPawn_C_0] 4090.212158
+[2021.11.15-19.43.06:912][819]LogBlueprintUserMessages: [FlyingPawn_C_0] 4094.871094
+[2021.11.15-19.43.06:924][820]LogBlueprintUserMessages: [FlyingPawn_C_0] 4099.022461
+[2021.11.15-19.43.06:935][821]LogBlueprintUserMessages: [FlyingPawn_C_0] 4103.086426
+[2021.11.15-19.43.06:946][822]LogBlueprintUserMessages: [FlyingPawn_C_0] 4107.221191
+[2021.11.15-19.43.06:957][823]LogBlueprintUserMessages: [FlyingPawn_C_0] 4111.1875
+[2021.11.15-19.43.06:968][824]LogBlueprintUserMessages: [FlyingPawn_C_0] 4115.480469
+[2021.11.15-19.43.06:980][825]LogBlueprintUserMessages: [FlyingPawn_C_0] 4119.615234
+[2021.11.15-19.43.06:990][826]LogBlueprintUserMessages: [FlyingPawn_C_0] 4123.494141
+[2021.11.15-19.43.07:002][827]LogBlueprintUserMessages: [FlyingPawn_C_0] 4127.585938
+[2021.11.15-19.43.07:013][828]LogBlueprintUserMessages: [FlyingPawn_C_0] 4131.704102
+[2021.11.15-19.43.07:025][829]LogBlueprintUserMessages: [FlyingPawn_C_0] 4135.822266
+[2021.11.15-19.43.07:036][830]LogBlueprintUserMessages: [FlyingPawn_C_0] 4140.064941
+[2021.11.15-19.43.07:047][831]LogBlueprintUserMessages: [FlyingPawn_C_0] 4144.09375
+[2021.11.15-19.43.07:058][832]LogBlueprintUserMessages: [FlyingPawn_C_0] 4148.07959
+[2021.11.15-19.43.07:070][833]LogBlueprintUserMessages: [FlyingPawn_C_0] 4152.371582
+[2021.11.15-19.43.07:080][834]LogBlueprintUserMessages: [FlyingPawn_C_0] 4156.418457
+[2021.11.15-19.43.07:092][835]LogBlueprintUserMessages: [FlyingPawn_C_0] 4160.791992
+[2021.11.15-19.43.07:102][836]LogBlueprintUserMessages: [FlyingPawn_C_0] 4164.902832
+[2021.11.15-19.43.07:113][837]LogBlueprintUserMessages: [FlyingPawn_C_0] 4169.063965
+[2021.11.15-19.43.07:124][838]LogBlueprintUserMessages: [FlyingPawn_C_0] 4173.020996
+[2021.11.15-19.43.07:136][839]LogBlueprintUserMessages: [FlyingPawn_C_0] 4177.222656
+[2021.11.15-19.43.07:147][840]LogBlueprintUserMessages: [FlyingPawn_C_0] 4181.285156
+[2021.11.15-19.43.07:161][841]LogBlueprintUserMessages: [FlyingPawn_C_0] 4186.384277
+[2021.11.15-19.43.07:172][842]LogBlueprintUserMessages: [FlyingPawn_C_0] 4190.59375
+[2021.11.15-19.43.07:185][843]LogBlueprintUserMessages: [FlyingPawn_C_0] 4195.166016
+[2021.11.15-19.43.07:195][844]LogBlueprintUserMessages: [FlyingPawn_C_0] 4199.126953
+[2021.11.15-19.43.07:206][845]LogBlueprintUserMessages: [FlyingPawn_C_0] 4203.134277
+[2021.11.15-19.43.07:218][846]LogBlueprintUserMessages: [FlyingPawn_C_0] 4207.20459
+[2021.11.15-19.43.07:229][847]LogBlueprintUserMessages: [FlyingPawn_C_0] 4211.202148
+[2021.11.15-19.43.07:240][848]LogBlueprintUserMessages: [FlyingPawn_C_0] 4215.29248
+[2021.11.15-19.43.07:251][849]LogBlueprintUserMessages: [FlyingPawn_C_0] 4219.427734
+[2021.11.15-19.43.07:264][850]LogBlueprintUserMessages: [FlyingPawn_C_0] 4224.191895
+[2021.11.15-19.43.07:275][851]LogBlueprintUserMessages: [FlyingPawn_C_0] 4228.219238
+[2021.11.15-19.43.07:287][852]LogBlueprintUserMessages: [FlyingPawn_C_0] 4232.436523
+[2021.11.15-19.43.07:299][853]LogBlueprintUserMessages: [FlyingPawn_C_0] 4236.742676
+[2021.11.15-19.43.07:310][854]LogBlueprintUserMessages: [FlyingPawn_C_0] 4240.928711
+[2021.11.15-19.43.07:321][855]LogBlueprintUserMessages: [FlyingPawn_C_0] 4244.952148
+[2021.11.15-19.43.07:331][856]LogBlueprintUserMessages: [FlyingPawn_C_0] 4248.727539
+[2021.11.15-19.43.07:343][857]LogBlueprintUserMessages: [FlyingPawn_C_0] 4253.109863
+[2021.11.15-19.43.07:354][858]LogBlueprintUserMessages: [FlyingPawn_C_0] 4257.387695
+[2021.11.15-19.43.07:365][859]LogBlueprintUserMessages: [FlyingPawn_C_0] 4261.349609
+[2021.11.15-19.43.07:377][860]LogBlueprintUserMessages: [FlyingPawn_C_0] 4265.868652
+[2021.11.15-19.43.07:388][861]LogBlueprintUserMessages: [FlyingPawn_C_0] 4269.916016
+[2021.11.15-19.43.07:399][862]LogBlueprintUserMessages: [FlyingPawn_C_0] 4273.938477
+[2021.11.15-19.43.07:410][863]LogBlueprintUserMessages: [FlyingPawn_C_0] 4277.876465
+[2021.11.15-19.43.07:421][864]LogBlueprintUserMessages: [FlyingPawn_C_0] 4281.796387
+[2021.11.15-19.43.07:432][865]LogBlueprintUserMessages: [FlyingPawn_C_0] 4285.827148
+[2021.11.15-19.43.07:443][866]LogBlueprintUserMessages: [FlyingPawn_C_0] 4289.661621
+[2021.11.15-19.43.07:454][867]LogBlueprintUserMessages: [FlyingPawn_C_0] 4293.970703
+[2021.11.15-19.43.07:467][868]LogBlueprintUserMessages: [FlyingPawn_C_0] 4298.450195
+[2021.11.15-19.43.07:478][869]LogBlueprintUserMessages: [FlyingPawn_C_0] 4302.80127
+[2021.11.15-19.43.07:489][870]LogBlueprintUserMessages: [FlyingPawn_C_0] 4306.759277
+[2021.11.15-19.43.07:500][871]LogBlueprintUserMessages: [FlyingPawn_C_0] 4311.113281
+[2021.11.15-19.43.07:511][872]LogBlueprintUserMessages: [FlyingPawn_C_0] 4315.22168
+[2021.11.15-19.43.07:522][873]LogBlueprintUserMessages: [FlyingPawn_C_0] 4319.122559
+[2021.11.15-19.43.07:533][874]LogBlueprintUserMessages: [FlyingPawn_C_0] 4323.157227
+[2021.11.15-19.43.07:544][875]LogBlueprintUserMessages: [FlyingPawn_C_0] 4327.081055
+[2021.11.15-19.43.07:555][876]LogBlueprintUserMessages: [FlyingPawn_C_0] 4330.976074
+[2021.11.15-19.43.07:566][877]LogBlueprintUserMessages: [FlyingPawn_C_0] 4335.066895
+[2021.11.15-19.43.07:577][878]LogBlueprintUserMessages: [FlyingPawn_C_0] 4339.033691
+[2021.11.15-19.43.07:587][879]LogBlueprintUserMessages: [FlyingPawn_C_0] 4342.931152
+[2021.11.15-19.43.07:599][880]LogBlueprintUserMessages: [FlyingPawn_C_0] 4347.353516
+[2021.11.15-19.43.07:613][881]LogBlueprintUserMessages: [FlyingPawn_C_0] 4352.732422
+[2021.11.15-19.43.07:628][882]LogBlueprintUserMessages: [FlyingPawn_C_0] 4358.300781
+[2021.11.15-19.43.07:642][883]LogBlueprintUserMessages: [FlyingPawn_C_0] 4363.804199
+[2021.11.15-19.43.07:655][884]LogBlueprintUserMessages: [FlyingPawn_C_0] 4368.34082
+[2021.11.15-19.43.07:666][885]LogBlueprintUserMessages: [FlyingPawn_C_0] 4372.36084
+[2021.11.15-19.43.07:677][886]LogBlueprintUserMessages: [FlyingPawn_C_0] 4376.454102
+[2021.11.15-19.43.07:689][887]LogBlueprintUserMessages: [FlyingPawn_C_0] 4380.527344
+[2021.11.15-19.43.07:700][888]LogBlueprintUserMessages: [FlyingPawn_C_0] 4384.558105
+[2021.11.15-19.43.07:711][889]LogBlueprintUserMessages: [FlyingPawn_C_0] 4388.45166
+[2021.11.15-19.43.07:721][890]LogBlueprintUserMessages: [FlyingPawn_C_0] 4392.322754
+[2021.11.15-19.43.07:732][891]LogBlueprintUserMessages: [FlyingPawn_C_0] 4396.395508
+[2021.11.15-19.43.07:745][892]LogBlueprintUserMessages: [FlyingPawn_C_0] 4400.95459
+[2021.11.15-19.43.07:755][893]LogBlueprintUserMessages: [FlyingPawn_C_0] 4404.781738
+[2021.11.15-19.43.07:767][894]LogBlueprintUserMessages: [FlyingPawn_C_0] 4408.901367
+[2021.11.15-19.43.07:778][895]LogBlueprintUserMessages: [FlyingPawn_C_0] 4412.908691
+[2021.11.15-19.43.07:789][896]LogBlueprintUserMessages: [FlyingPawn_C_0] 4416.775879
+[2021.11.15-19.43.07:800][897]LogBlueprintUserMessages: [FlyingPawn_C_0] 4420.70166
+[2021.11.15-19.43.07:811][898]LogBlueprintUserMessages: [FlyingPawn_C_0] 4424.676758
+[2021.11.15-19.43.07:822][899]LogBlueprintUserMessages: [FlyingPawn_C_0] 4428.528809
+[2021.11.15-19.43.07:834][900]LogBlueprintUserMessages: [FlyingPawn_C_0] 4432.420898
+[2021.11.15-19.43.07:845][901]LogBlueprintUserMessages: [FlyingPawn_C_0] 4436.644531
+[2021.11.15-19.43.07:856][902]LogBlueprintUserMessages: [FlyingPawn_C_0] 4440.910156
+[2021.11.15-19.43.07:867][903]LogBlueprintUserMessages: [FlyingPawn_C_0] 4445.007812
+[2021.11.15-19.43.07:878][904]LogBlueprintUserMessages: [FlyingPawn_C_0] 4449.033203
+[2021.11.15-19.43.07:888][905]LogBlueprintUserMessages: [FlyingPawn_C_0] 4453.023926
+[2021.11.15-19.43.07:899][906]LogBlueprintUserMessages: [FlyingPawn_C_0] 4457.336426
+[2021.11.15-19.43.07:910][907]LogBlueprintUserMessages: [FlyingPawn_C_0] 4461.398926
+[2021.11.15-19.43.07:920][908]LogBlueprintUserMessages: [FlyingPawn_C_0] 4465.307617
+[2021.11.15-19.43.07:932][909]LogBlueprintUserMessages: [FlyingPawn_C_0] 4469.401855
+[2021.11.15-19.43.07:943][910]LogBlueprintUserMessages: [FlyingPawn_C_0] 4473.358887
+[2021.11.15-19.43.07:956][911]LogBlueprintUserMessages: [FlyingPawn_C_0] 4478.240234
+[2021.11.15-19.43.07:968][912]LogBlueprintUserMessages: [FlyingPawn_C_0] 4482.570801
+[2021.11.15-19.43.07:980][913]LogBlueprintUserMessages: [FlyingPawn_C_0] 4487.050781
+[2021.11.15-19.43.07:992][914]LogBlueprintUserMessages: [FlyingPawn_C_0] 4491.229004
+[2021.11.15-19.43.08:003][915]LogBlueprintUserMessages: [FlyingPawn_C_0] 4495.535645
+[2021.11.15-19.43.08:014][916]LogBlueprintUserMessages: [FlyingPawn_C_0] 4499.766602
+[2021.11.15-19.43.08:026][917]LogBlueprintUserMessages: [FlyingPawn_C_0] 4504.10791
+[2021.11.15-19.43.08:037][918]LogBlueprintUserMessages: [FlyingPawn_C_0] 4508.075195
+[2021.11.15-19.43.08:047][919]LogBlueprintUserMessages: [FlyingPawn_C_0] 4512.006836
+[2021.11.15-19.43.08:058][920]LogBlueprintUserMessages: [FlyingPawn_C_0] 4515.918457
+[2021.11.15-19.43.08:069][921]LogBlueprintUserMessages: [FlyingPawn_C_0] 4519.916992
+[2021.11.15-19.43.08:080][922]LogBlueprintUserMessages: [FlyingPawn_C_0] 4523.806641
+[2021.11.15-19.43.08:090][923]LogBlueprintUserMessages: [FlyingPawn_C_0] 4527.681641
+[2021.11.15-19.43.08:104][924]LogBlueprintUserMessages: [FlyingPawn_C_0] 4532.639648
+[2021.11.15-19.43.08:115][925]LogBlueprintUserMessages: [FlyingPawn_C_0] 4536.587402
+[2021.11.15-19.43.08:126][926]LogBlueprintUserMessages: [FlyingPawn_C_0] 4540.558594
+[2021.11.15-19.43.08:137][927]LogBlueprintUserMessages: [FlyingPawn_C_0] 4544.568848
+[2021.11.15-19.43.08:148][928]LogBlueprintUserMessages: [FlyingPawn_C_0] 4548.562988
+[2021.11.15-19.43.08:158][929]LogBlueprintUserMessages: [FlyingPawn_C_0] 4552.427246
+[2021.11.15-19.43.08:170][930]LogBlueprintUserMessages: [FlyingPawn_C_0] 4556.54248
+[2021.11.15-19.43.08:181][931]LogBlueprintUserMessages: [FlyingPawn_C_0] 4560.69043
+[2021.11.15-19.43.08:193][932]LogBlueprintUserMessages: [FlyingPawn_C_0] 4565.038574
+[2021.11.15-19.43.08:205][933]LogBlueprintUserMessages: [FlyingPawn_C_0] 4569.154297
+[2021.11.15-19.43.08:216][934]LogBlueprintUserMessages: [FlyingPawn_C_0] 4573.224121
+[2021.11.15-19.43.08:227][935]LogBlueprintUserMessages: [FlyingPawn_C_0] 4577.32959
+[2021.11.15-19.43.08:240][936]LogBlueprintUserMessages: [FlyingPawn_C_0] 4581.845215
+[2021.11.15-19.43.08:251][937]LogBlueprintUserMessages: [FlyingPawn_C_0] 4585.964844
+[2021.11.15-19.43.08:263][938]LogBlueprintUserMessages: [FlyingPawn_C_0] 4590.234863
+[2021.11.15-19.43.08:276][939]LogBlueprintUserMessages: [FlyingPawn_C_0] 4595.273438
+[2021.11.15-19.43.08:287][940]LogBlueprintUserMessages: [FlyingPawn_C_0] 4599.322266
+[2021.11.15-19.43.08:299][941]LogBlueprintUserMessages: [FlyingPawn_C_0] 4603.560059
+[2021.11.15-19.43.08:310][942]LogBlueprintUserMessages: [FlyingPawn_C_0] 4607.626465
+[2021.11.15-19.43.08:322][943]LogBlueprintUserMessages: [FlyingPawn_C_0] 4611.835449
+[2021.11.15-19.43.08:334][944]LogBlueprintUserMessages: [FlyingPawn_C_0] 4616.109863
+[2021.11.15-19.43.08:345][945]LogBlueprintUserMessages: [FlyingPawn_C_0] 4620.225098
+[2021.11.15-19.43.08:357][946]LogBlueprintUserMessages: [FlyingPawn_C_0] 4624.447266
+[2021.11.15-19.43.08:369][947]LogBlueprintUserMessages: [FlyingPawn_C_0] 4629.068848
+[2021.11.15-19.43.08:380][948]LogBlueprintUserMessages: [FlyingPawn_C_0] 4633.205078
+[2021.11.15-19.43.08:392][949]LogBlueprintUserMessages: [FlyingPawn_C_0] 4637.304199
+[2021.11.15-19.43.08:403][950]LogBlueprintUserMessages: [FlyingPawn_C_0] 4641.411133
+[2021.11.15-19.43.08:413][951]LogBlueprintUserMessages: [FlyingPawn_C_0] 4645.282227
+[2021.11.15-19.43.08:424][952]LogBlueprintUserMessages: [FlyingPawn_C_0] 4649.221191
+[2021.11.15-19.43.08:435][953]LogBlueprintUserMessages: [FlyingPawn_C_0] 4653.312012
+[2021.11.15-19.43.08:446][954]LogBlueprintUserMessages: [FlyingPawn_C_0] 4657.345215
+[2021.11.15-19.43.08:456][955]LogBlueprintUserMessages: [FlyingPawn_C_0] 4661.257324
+[2021.11.15-19.43.08:468][956]LogBlueprintUserMessages: [FlyingPawn_C_0] 4665.402344
+[2021.11.15-19.43.08:478][957]LogBlueprintUserMessages: [FlyingPawn_C_0] 4669.39209
+[2021.11.15-19.43.08:489][958]LogBlueprintUserMessages: [FlyingPawn_C_0] 4673.412109
+[2021.11.15-19.43.08:501][959]LogBlueprintUserMessages: [FlyingPawn_C_0] 4677.740723
+[2021.11.15-19.43.08:513][960]LogBlueprintUserMessages: [FlyingPawn_C_0] 4681.742188
+[2021.11.15-19.43.08:523][961]LogBlueprintUserMessages: [FlyingPawn_C_0] 4685.616699
+[2021.11.15-19.43.08:534][962]LogBlueprintUserMessages: [FlyingPawn_C_0] 4689.703613
+[2021.11.15-19.43.08:545][963]LogBlueprintUserMessages: [FlyingPawn_C_0] 4693.668945
+[2021.11.15-19.43.08:556][964]LogBlueprintUserMessages: [FlyingPawn_C_0] 4697.604492
+[2021.11.15-19.43.08:567][965]LogBlueprintUserMessages: [FlyingPawn_C_0] 4701.638672
+[2021.11.15-19.43.08:578][966]LogBlueprintUserMessages: [FlyingPawn_C_0] 4705.585449
+[2021.11.15-19.43.08:588][967]LogBlueprintUserMessages: [FlyingPawn_C_0] 4709.371094
+[2021.11.15-19.43.08:599][968]LogBlueprintUserMessages: [FlyingPawn_C_0] 4713.560547
+[2021.11.15-19.43.08:612][969]LogBlueprintUserMessages: [FlyingPawn_C_0] 4718.35498
+[2021.11.15-19.43.08:624][970]LogBlueprintUserMessages: [FlyingPawn_C_0] 4722.743164
+[2021.11.15-19.43.08:638][971]LogBlueprintUserMessages: [FlyingPawn_C_0] 4727.744141
+[2021.11.15-19.43.08:651][972]LogBlueprintUserMessages: [FlyingPawn_C_0] 4732.239258
+[2021.11.15-19.43.08:662][973]LogBlueprintUserMessages: [FlyingPawn_C_0] 4736.275391
+[2021.11.15-19.43.08:673][974]LogBlueprintUserMessages: [FlyingPawn_C_0] 4740.390625
+[2021.11.15-19.43.08:684][975]LogBlueprintUserMessages: [FlyingPawn_C_0] 4744.265137
+[2021.11.15-19.43.08:694][976]LogBlueprintUserMessages: [FlyingPawn_C_0] 4748.102051
+[2021.11.15-19.43.08:705][977]LogBlueprintUserMessages: [FlyingPawn_C_0] 4752.175781
+[2021.11.15-19.43.08:716][978]LogBlueprintUserMessages: [FlyingPawn_C_0] 4756.148438
+[2021.11.15-19.43.08:726][979]LogBlueprintUserMessages: [FlyingPawn_C_0] 4759.98584
+[2021.11.15-19.43.08:738][980]LogBlueprintUserMessages: [FlyingPawn_C_0] 4764.11377
+[2021.11.15-19.43.08:748][981]LogBlueprintUserMessages: [FlyingPawn_C_0] 4767.952637
+[2021.11.15-19.43.08:759][982]LogBlueprintUserMessages: [FlyingPawn_C_0] 4771.751953
+[2021.11.15-19.43.08:769][983]LogBlueprintUserMessages: [FlyingPawn_C_0] 4775.632324
+[2021.11.15-19.43.08:782][984]LogBlueprintUserMessages: [FlyingPawn_C_0] 4780.302246
+[2021.11.15-19.43.08:793][985]LogBlueprintUserMessages: [FlyingPawn_C_0] 4784.283203
+[2021.11.15-19.43.08:804][986]LogBlueprintUserMessages: [FlyingPawn_C_0] 4788.312012
+[2021.11.15-19.43.08:817][987]LogBlueprintUserMessages: [FlyingPawn_C_0] 4792.788574
+[2021.11.15-19.43.08:828][988]LogBlueprintUserMessages: [FlyingPawn_C_0] 4796.923828
+[2021.11.15-19.43.08:839][989]LogBlueprintUserMessages: [FlyingPawn_C_0] 4800.881836
+[2021.11.15-19.43.08:849][990]LogBlueprintUserMessages: [FlyingPawn_C_0] 4804.845703
+[2021.11.15-19.43.08:860][991]LogBlueprintUserMessages: [FlyingPawn_C_0] 4808.644531
+[2021.11.15-19.43.08:871][992]LogBlueprintUserMessages: [FlyingPawn_C_0] 4812.57959
+[2021.11.15-19.43.08:882][993]LogBlueprintUserMessages: [FlyingPawn_C_0] 4816.490723
+[2021.11.15-19.43.08:892][994]LogBlueprintUserMessages: [FlyingPawn_C_0] 4820.512695
+[2021.11.15-19.43.08:904][995]LogBlueprintUserMessages: [FlyingPawn_C_0] 4824.57666
+[2021.11.15-19.43.08:914][996]LogBlueprintUserMessages: [FlyingPawn_C_0] 4828.404785
+[2021.11.15-19.43.08:925][997]LogBlueprintUserMessages: [FlyingPawn_C_0] 4832.375488
+[2021.11.15-19.43.08:936][998]LogBlueprintUserMessages: [FlyingPawn_C_0] 4836.344238
+[2021.11.15-19.43.08:947][999]LogBlueprintUserMessages: [FlyingPawn_C_0] 4840.415527
+[2021.11.15-19.43.08:958][  0]LogBlueprintUserMessages: [FlyingPawn_C_0] 4844.283203
+[2021.11.15-19.43.08:968][  1]LogBlueprintUserMessages: [FlyingPawn_C_0] 4848.439941
+[2021.11.15-19.43.08:985][  2]LogBlueprintUserMessages: [FlyingPawn_C_0] 4854.632324
+[2021.11.15-19.43.08:996][  3]LogBlueprintUserMessages: [FlyingPawn_C_0] 4858.504395
+[2021.11.15-19.43.09:007][  4]LogBlueprintUserMessages: [FlyingPawn_C_0] 4862.429199
+[2021.11.15-19.43.09:018][  5]LogBlueprintUserMessages: [FlyingPawn_C_0] 4866.345215
+[2021.11.15-19.43.09:028][  6]LogBlueprintUserMessages: [FlyingPawn_C_0] 4870.200684
+[2021.11.15-19.43.09:039][  7]LogBlueprintUserMessages: [FlyingPawn_C_0] 4874.103516
+[2021.11.15-19.43.09:050][  8]LogBlueprintUserMessages: [FlyingPawn_C_0] 4878.035156
+[2021.11.15-19.43.09:061][  9]LogBlueprintUserMessages: [FlyingPawn_C_0] 4881.922852
+[2021.11.15-19.43.09:072][ 10]LogBlueprintUserMessages: [FlyingPawn_C_0] 4885.978027
+[2021.11.15-19.43.09:085][ 11]LogBlueprintUserMessages: [FlyingPawn_C_0] 4890.753418
+[2021.11.15-19.43.09:095][ 12]LogBlueprintUserMessages: [FlyingPawn_C_0] 4894.697754
+[2021.11.15-19.43.09:107][ 13]LogBlueprintUserMessages: [FlyingPawn_C_0] 4899.068848
+[2021.11.15-19.43.09:118][ 14]LogBlueprintUserMessages: [FlyingPawn_C_0] 4903.006836
+[2021.11.15-19.43.09:130][ 15]LogBlueprintUserMessages: [FlyingPawn_C_0] 4907.34668
+[2021.11.15-19.43.09:142][ 16]LogBlueprintUserMessages: [FlyingPawn_C_0] 4911.74707
+[2021.11.15-19.43.09:153][ 17]LogBlueprintUserMessages: [FlyingPawn_C_0] 4915.685059
+[2021.11.15-19.43.09:163][ 18]LogBlueprintUserMessages: [FlyingPawn_C_0] 4919.503906
+[2021.11.15-19.43.09:174][ 19]LogBlueprintUserMessages: [FlyingPawn_C_0] 4923.474609
+[2021.11.15-19.43.09:186][ 20]LogBlueprintUserMessages: [FlyingPawn_C_0] 4927.555664
+[2021.11.15-19.43.09:197][ 21]LogBlueprintUserMessages: [FlyingPawn_C_0] 4931.851074
+[2021.11.15-19.43.09:208][ 22]LogBlueprintUserMessages: [FlyingPawn_C_0] 4936.135254
+[2021.11.15-19.43.09:220][ 23]LogBlueprintUserMessages: [FlyingPawn_C_0] 4940.36377
+[2021.11.15-19.43.09:231][ 24]LogBlueprintUserMessages: [FlyingPawn_C_0] 4944.365234
+[2021.11.15-19.43.09:241][ 25]LogBlueprintUserMessages: [FlyingPawn_C_0] 4948.197266
+[2021.11.15-19.43.09:253][ 26]LogBlueprintUserMessages: [FlyingPawn_C_0] 4952.248535
+[2021.11.15-19.43.09:263][ 27]LogBlueprintUserMessages: [FlyingPawn_C_0] 4956.126953
+[2021.11.15-19.43.09:274][ 28]LogBlueprintUserMessages: [FlyingPawn_C_0] 4960.182617
+[2021.11.15-19.43.09:285][ 29]LogBlueprintUserMessages: [FlyingPawn_C_0] 4964.149902
+[2021.11.15-19.43.09:296][ 30]LogBlueprintUserMessages: [FlyingPawn_C_0] 4968.097168
+[2021.11.15-19.43.09:307][ 31]LogBlueprintUserMessages: [FlyingPawn_C_0] 4972.092773
+[2021.11.15-19.43.09:318][ 32]LogBlueprintUserMessages: [FlyingPawn_C_0] 4975.979492
+[2021.11.15-19.43.09:328][ 33]LogBlueprintUserMessages: [FlyingPawn_C_0] 4979.918457
+[2021.11.15-19.43.09:342][ 34]LogBlueprintUserMessages: [FlyingPawn_C_0] 4984.899902
+[2021.11.15-19.43.09:353][ 35]LogBlueprintUserMessages: [FlyingPawn_C_0] 4989.019531
+[2021.11.15-19.43.09:364][ 36]LogBlueprintUserMessages: [FlyingPawn_C_0] 4993.013672
+[2021.11.15-19.43.09:375][ 37]LogBlueprintUserMessages: [FlyingPawn_C_0] 4997.008789
+[2021.11.15-19.43.09:386][ 38]LogBlueprintUserMessages: [FlyingPawn_C_0] 5001.14502
+[2021.11.15-19.43.09:398][ 39]LogBlueprintUserMessages: [FlyingPawn_C_0] 5005.61084
+[2021.11.15-19.43.09:410][ 40]LogBlueprintUserMessages: [FlyingPawn_C_0] 5009.753418
+[2021.11.15-19.43.09:421][ 41]LogBlueprintUserMessages: [FlyingPawn_C_0] 5013.803223
+[2021.11.15-19.43.09:432][ 42]LogBlueprintUserMessages: [FlyingPawn_C_0] 5017.791992
+[2021.11.15-19.43.09:444][ 43]LogBlueprintUserMessages: [FlyingPawn_C_0] 5021.680176
+[2021.11.15-19.43.09:454][ 44]LogBlueprintUserMessages: [FlyingPawn_C_0] 5025.596191
+[2021.11.15-19.43.09:464][ 45]LogBlueprintUserMessages: [FlyingPawn_C_0] 5029.452637
+[2021.11.15-19.43.09:475][ 46]LogBlueprintUserMessages: [FlyingPawn_C_0] 5033.496582
+[2021.11.15-19.43.09:486][ 47]LogBlueprintUserMessages: [FlyingPawn_C_0] 5037.626953
+[2021.11.15-19.43.09:498][ 48]LogBlueprintUserMessages: [FlyingPawn_C_0] 5041.810059
+[2021.11.15-19.43.09:509][ 49]LogBlueprintUserMessages: [FlyingPawn_C_0] 5045.696289
+[2021.11.15-19.43.09:520][ 50]LogBlueprintUserMessages: [FlyingPawn_C_0] 5049.627441
+[2021.11.15-19.43.09:531][ 51]LogBlueprintUserMessages: [FlyingPawn_C_0] 5053.805176
+[2021.11.15-19.43.09:542][ 52]LogBlueprintUserMessages: [FlyingPawn_C_0] 5057.943359
+[2021.11.15-19.43.09:553][ 53]LogBlueprintUserMessages: [FlyingPawn_C_0] 5061.994629
+[2021.11.15-19.43.09:564][ 54]LogBlueprintUserMessages: [FlyingPawn_C_0] 5066.039551
+[2021.11.15-19.43.09:575][ 55]LogBlueprintUserMessages: [FlyingPawn_C_0] 5069.871582
+[2021.11.15-19.43.09:585][ 56]LogBlueprintUserMessages: [FlyingPawn_C_0] 5073.749023
+[2021.11.15-19.43.09:596][ 57]LogBlueprintUserMessages: [FlyingPawn_C_0] 5077.555664
+[2021.11.15-19.43.09:609][ 58]LogBlueprintUserMessages: [FlyingPawn_C_0] 5082.291504
+[2021.11.15-19.43.09:621][ 59]LogBlueprintUserMessages: [FlyingPawn_C_0] 5086.490723
+[2021.11.15-19.43.09:635][ 60]LogBlueprintUserMessages: [FlyingPawn_C_0] 5091.474121
+[2021.11.15-19.43.09:648][ 61]LogBlueprintUserMessages: [FlyingPawn_C_0] 5096.277344
+[2021.11.15-19.43.09:659][ 62]LogBlueprintUserMessages: [FlyingPawn_C_0] 5100.216797
+[2021.11.15-19.43.09:670][ 63]LogBlueprintUserMessages: [FlyingPawn_C_0] 5104.306152
+[2021.11.15-19.43.09:681][ 64]LogBlueprintUserMessages: [FlyingPawn_C_0] 5108.193359
+[2021.11.15-19.43.09:692][ 65]LogBlueprintUserMessages: [FlyingPawn_C_0] 5112.106445
+[2021.11.15-19.43.09:704][ 66]LogBlueprintUserMessages: [FlyingPawn_C_0] 5116.484375
+[2021.11.15-19.43.09:715][ 67]LogBlueprintUserMessages: [FlyingPawn_C_0] 5120.425781
+[2021.11.15-19.43.09:725][ 68]LogBlueprintUserMessages: [FlyingPawn_C_0] 5124.391113
+[2021.11.15-19.43.09:737][ 69]LogBlueprintUserMessages: [FlyingPawn_C_0] 5128.61084
+[2021.11.15-19.43.09:748][ 70]LogBlueprintUserMessages: [FlyingPawn_C_0] 5132.481934
+[2021.11.15-19.43.09:758][ 71]LogBlueprintUserMessages: [FlyingPawn_C_0] 5136.5
+[2021.11.15-19.43.09:770][ 72]LogBlueprintUserMessages: [FlyingPawn_C_0] 5140.668457
+[2021.11.15-19.43.09:784][ 73]LogBlueprintUserMessages: [FlyingPawn_C_0] 5145.836426
+[2021.11.15-19.43.09:795][ 74]LogBlueprintUserMessages: [FlyingPawn_C_0] 5149.871582
+[2021.11.15-19.43.09:806][ 75]LogBlueprintUserMessages: [FlyingPawn_C_0] 5153.917969
+[2021.11.15-19.43.09:819][ 76]LogBlueprintUserMessages: [FlyingPawn_C_0] 5158.350098
+[2021.11.15-19.43.09:829][ 77]LogBlueprintUserMessages: [FlyingPawn_C_0] 5162.266113
+[2021.11.15-19.43.09:840][ 78]LogBlueprintUserMessages: [FlyingPawn_C_0] 5166.221191
+[2021.11.15-19.43.09:851][ 79]LogBlueprintUserMessages: [FlyingPawn_C_0] 5170.150391
+[2021.11.15-19.43.09:862][ 80]LogBlueprintUserMessages: [FlyingPawn_C_0] 5174.109375
+[2021.11.15-19.43.09:873][ 81]LogBlueprintUserMessages: [FlyingPawn_C_0] 5178.105957
+[2021.11.15-19.43.09:884][ 82]LogBlueprintUserMessages: [FlyingPawn_C_0] 5182.100098
+[2021.11.15-19.43.09:896][ 83]LogBlueprintUserMessages: [FlyingPawn_C_0] 5186.335938
+[2021.11.15-19.43.09:907][ 84]LogBlueprintUserMessages: [FlyingPawn_C_0] 5190.410645
+[2021.11.15-19.43.09:918][ 85]LogBlueprintUserMessages: [FlyingPawn_C_0] 5194.45459
+[2021.11.15-19.43.09:929][ 86]LogBlueprintUserMessages: [FlyingPawn_C_0] 5198.325684
+[2021.11.15-19.43.09:940][ 87]LogBlueprintUserMessages: [FlyingPawn_C_0] 5202.390137
+[2021.11.15-19.43.09:952][ 88]LogBlueprintUserMessages: [FlyingPawn_C_0] 5206.673828
+[2021.11.15-19.43.09:963][ 89]LogBlueprintUserMessages: [FlyingPawn_C_0] 5210.586914
+[2021.11.15-19.43.09:974][ 90]LogBlueprintUserMessages: [FlyingPawn_C_0] 5214.612305
+[2021.11.15-19.43.09:985][ 91]LogBlueprintUserMessages: [FlyingPawn_C_0] 5218.568359
+[2021.11.15-19.43.09:996][ 92]LogBlueprintUserMessages: [FlyingPawn_C_0] 5222.554199
+[2021.11.15-19.43.10:007][ 93]LogBlueprintUserMessages: [FlyingPawn_C_0] 5226.582031
+[2021.11.15-19.43.10:018][ 94]LogBlueprintUserMessages: [FlyingPawn_C_0] 5230.991211
+[2021.11.15-19.43.10:030][ 95]LogBlueprintUserMessages: [FlyingPawn_C_0] 5235.303711
+[2021.11.15-19.43.10:041][ 96]LogBlueprintUserMessages: [FlyingPawn_C_0] 5239.26416
+[2021.11.15-19.43.10:052][ 97]LogBlueprintUserMessages: [FlyingPawn_C_0] 5243.585938
+[2021.11.15-19.43.10:064][ 98]LogBlueprintUserMessages: [FlyingPawn_C_0] 5247.694336
+[2021.11.15-19.43.10:075][ 99]LogBlueprintUserMessages: [FlyingPawn_C_0] 5251.764648
+[2021.11.15-19.43.10:086][100]LogBlueprintUserMessages: [FlyingPawn_C_0] 5255.799316
+[2021.11.15-19.43.10:097][101]LogBlueprintUserMessages: [FlyingPawn_C_0] 5259.720215
+[2021.11.15-19.43.10:108][102]LogBlueprintUserMessages: [FlyingPawn_C_0] 5263.737793
+[2021.11.15-19.43.10:118][103]LogBlueprintUserMessages: [FlyingPawn_C_0] 5267.60791
+[2021.11.15-19.43.10:129][104]LogBlueprintUserMessages: [FlyingPawn_C_0] 5271.512207
+[2021.11.15-19.43.10:140][105]LogBlueprintUserMessages: [FlyingPawn_C_0] 5275.557129
+[2021.11.15-19.43.10:151][106]LogBlueprintUserMessages: [FlyingPawn_C_0] 5279.45166
+[2021.11.15-19.43.10:162][107]LogBlueprintUserMessages: [FlyingPawn_C_0] 5283.460938
+[2021.11.15-19.43.10:173][108]LogBlueprintUserMessages: [FlyingPawn_C_0] 5287.501953
+[2021.11.15-19.43.10:183][109]LogBlueprintUserMessages: [FlyingPawn_C_0] 5291.396484
+[2021.11.15-19.43.10:194][110]LogBlueprintUserMessages: [FlyingPawn_C_0] 5295.365723
+[2021.11.15-19.43.10:205][111]LogBlueprintUserMessages: [FlyingPawn_C_0] 5299.445801
+[2021.11.15-19.43.10:216][112]LogBlueprintUserMessages: [FlyingPawn_C_0] 5303.476562
+[2021.11.15-19.43.10:227][113]LogBlueprintUserMessages: [FlyingPawn_C_0] 5307.513672
+[2021.11.15-19.43.10:238][114]LogBlueprintUserMessages: [FlyingPawn_C_0] 5311.491211
+[2021.11.15-19.43.10:249][115]LogBlueprintUserMessages: [FlyingPawn_C_0] 5315.430176
+[2021.11.15-19.43.10:260][116]LogBlueprintUserMessages: [FlyingPawn_C_0] 5319.545898
+[2021.11.15-19.43.10:272][117]LogBlueprintUserMessages: [FlyingPawn_C_0] 5323.69043
+[2021.11.15-19.43.10:283][118]LogBlueprintUserMessages: [FlyingPawn_C_0] 5327.648926
+[2021.11.15-19.43.10:294][119]LogBlueprintUserMessages: [FlyingPawn_C_0] 5331.657227
+[2021.11.15-19.43.10:305][120]LogBlueprintUserMessages: [FlyingPawn_C_0] 5335.793945
+[2021.11.15-19.43.10:317][121]LogBlueprintUserMessages: [FlyingPawn_C_0] 5340.079102
+[2021.11.15-19.43.10:328][122]LogBlueprintUserMessages: [FlyingPawn_C_0] 5344.114258
+[2021.11.15-19.43.10:339][123]LogBlueprintUserMessages: [FlyingPawn_C_0] 5348.099121
+[2021.11.15-19.43.10:349][124]LogBlueprintUserMessages: [FlyingPawn_C_0] 5352.178223
+[2021.11.15-19.43.10:360][125]LogBlueprintUserMessages: [FlyingPawn_C_0] 5356.052246
+[2021.11.15-19.43.10:371][126]LogBlueprintUserMessages: [FlyingPawn_C_0] 5360.214355
+[2021.11.15-19.43.10:382][127]LogBlueprintUserMessages: [FlyingPawn_C_0] 5364.087402
+[2021.11.15-19.43.10:393][128]LogBlueprintUserMessages: [FlyingPawn_C_0] 5367.913086
+[2021.11.15-19.43.10:404][129]LogBlueprintUserMessages: [FlyingPawn_C_0] 5371.918945
+[2021.11.15-19.43.10:415][130]LogBlueprintUserMessages: [FlyingPawn_C_0] 5375.90918
+[2021.11.15-19.43.10:426][131]LogBlueprintUserMessages: [FlyingPawn_C_0] 5380.12793
+[2021.11.15-19.43.10:437][132]LogBlueprintUserMessages: [FlyingPawn_C_0] 5384.240234
+[2021.11.15-19.43.10:448][133]LogBlueprintUserMessages: [FlyingPawn_C_0] 5388.207031
+[2021.11.15-19.43.10:459][134]LogBlueprintUserMessages: [FlyingPawn_C_0] 5392.44873
+[2021.11.15-19.43.10:471][135]LogBlueprintUserMessages: [FlyingPawn_C_0] 5396.59668
+[2021.11.15-19.43.10:482][136]LogBlueprintUserMessages: [FlyingPawn_C_0] 5400.600098
+[2021.11.15-19.43.10:493][137]LogBlueprintUserMessages: [FlyingPawn_C_0] 5404.511719
+[2021.11.15-19.43.10:504][138]LogBlueprintUserMessages: [FlyingPawn_C_0] 5408.600098
+[2021.11.15-19.43.10:516][139]LogBlueprintUserMessages: [FlyingPawn_C_0] 5413.396484
+[2021.11.15-19.43.10:527][140]LogBlueprintUserMessages: [FlyingPawn_C_0] 5417.378418
+[2021.11.15-19.43.10:541][141]LogBlueprintUserMessages: [FlyingPawn_C_0] 5422.430664
+[2021.11.15-19.43.10:552][142]LogBlueprintUserMessages: [FlyingPawn_C_0] 5426.451172
+[2021.11.15-19.43.10:563][143]LogBlueprintUserMessages: [FlyingPawn_C_0] 5430.553711
+[2021.11.15-19.43.10:574][144]LogBlueprintUserMessages: [FlyingPawn_C_0] 5434.76123
+[2021.11.15-19.43.10:585][145]LogBlueprintUserMessages: [FlyingPawn_C_0] 5438.814453
+[2021.11.15-19.43.10:596][146]LogBlueprintUserMessages: [FlyingPawn_C_0] 5442.79248
+[2021.11.15-19.43.10:609][147]LogBlueprintUserMessages: [FlyingPawn_C_0] 5447.48877
+[2021.11.15-19.43.10:621][148]LogBlueprintUserMessages: [FlyingPawn_C_0] 5452.012207
+[2021.11.15-19.43.10:636][149]LogBlueprintUserMessages: [FlyingPawn_C_0] 5457.259277
+[2021.11.15-19.43.10:651][150]LogBlueprintUserMessages: [FlyingPawn_C_0] 5462.924805
+[2021.11.15-19.43.10:663][151]LogBlueprintUserMessages: [FlyingPawn_C_0] 5467.216797
+[2021.11.15-19.43.10:675][152]LogBlueprintUserMessages: [FlyingPawn_C_0] 5471.70459
+[2021.11.15-19.43.10:686][153]LogBlueprintUserMessages: [FlyingPawn_C_0] 5475.598145
+[2021.11.15-19.43.10:697][154]LogBlueprintUserMessages: [FlyingPawn_C_0] 5479.908691
+[2021.11.15-19.43.10:709][155]LogBlueprintUserMessages: [FlyingPawn_C_0] 5484.350098
+[2021.11.15-19.43.10:722][156]LogBlueprintUserMessages: [FlyingPawn_C_0] 5489.192871
+[2021.11.15-19.43.10:734][157]LogBlueprintUserMessages: [FlyingPawn_C_0] 5493.552734
+[2021.11.15-19.43.10:745][158]LogBlueprintUserMessages: [FlyingPawn_C_0] 5497.72998
+[2021.11.15-19.43.10:758][159]LogBlueprintUserMessages: [FlyingPawn_C_0] 5501.874512
+[2021.11.15-19.43.10:770][160]LogBlueprintUserMessages: [FlyingPawn_C_0] 5506.149902
+[2021.11.15-19.43.10:781][161]LogBlueprintUserMessages: [FlyingPawn_C_0] 5510.245605
+[2021.11.15-19.43.10:792][162]LogBlueprintUserMessages: [FlyingPawn_C_0] 5514.162109
+[2021.11.15-19.43.10:803][163]LogBlueprintUserMessages: [FlyingPawn_C_0] 5518.193848
+[2021.11.15-19.43.10:814][164]LogBlueprintUserMessages: [FlyingPawn_C_0] 5522.314941
+[2021.11.15-19.43.10:826][165]LogBlueprintUserMessages: [FlyingPawn_C_0] 5526.582031
+[2021.11.15-19.43.10:838][166]LogBlueprintUserMessages: [FlyingPawn_C_0] 5530.810547
+[2021.11.15-19.43.10:850][167]LogBlueprintUserMessages: [FlyingPawn_C_0] 5535.289062
+[2021.11.15-19.43.10:861][168]LogBlueprintUserMessages: [FlyingPawn_C_0] 5539.212891
+[2021.11.15-19.43.10:872][169]LogBlueprintUserMessages: [FlyingPawn_C_0] 5543.204102
+[2021.11.15-19.43.10:883][170]LogBlueprintUserMessages: [FlyingPawn_C_0] 5547.20459
+[2021.11.15-19.43.10:894][171]LogBlueprintUserMessages: [FlyingPawn_C_0] 5551.189453
+[2021.11.15-19.43.10:905][172]LogBlueprintUserMessages: [FlyingPawn_C_0] 5555.20752
+[2021.11.15-19.43.10:916][173]LogBlueprintUserMessages: [FlyingPawn_C_0] 5559.132812
+[2021.11.15-19.43.10:927][174]LogBlueprintUserMessages: [FlyingPawn_C_0] 5563.025391
+[2021.11.15-19.43.10:938][175]LogBlueprintUserMessages: [FlyingPawn_C_0] 5567.066406
+[2021.11.15-19.43.10:949][176]LogBlueprintUserMessages: [FlyingPawn_C_0] 5571.027344
+[2021.11.15-19.43.10:961][177]LogBlueprintUserMessages: [FlyingPawn_C_0] 5575.44043
+[2021.11.15-19.43.10:974][178]LogBlueprintUserMessages: [FlyingPawn_C_0] 5580.013672
+[2021.11.15-19.43.10:985][179]LogBlueprintUserMessages: [FlyingPawn_C_0] 5584.11084
+[2021.11.15-19.43.10:996][180]LogBlueprintUserMessages: [FlyingPawn_C_0] 5588.233398
+[2021.11.15-19.43.11:007][181]LogBlueprintUserMessages: [FlyingPawn_C_0] 5592.475098
+[2021.11.15-19.43.11:019][182]LogBlueprintUserMessages: [FlyingPawn_C_0] 5596.476074
+[2021.11.15-19.43.11:030][183]LogBlueprintUserMessages: [FlyingPawn_C_0] 5600.688965
+[2021.11.15-19.43.11:042][184]LogBlueprintUserMessages: [FlyingPawn_C_0] 5605.008301
+[2021.11.15-19.43.11:054][185]LogBlueprintUserMessages: [FlyingPawn_C_0] 5609.15332
+[2021.11.15-19.43.11:065][186]LogBlueprintUserMessages: [FlyingPawn_C_0] 5613.207031
+[2021.11.15-19.43.11:077][187]LogBlueprintUserMessages: [FlyingPawn_C_0] 5617.571777
+[2021.11.15-19.43.11:087][188]LogBlueprintUserMessages: [FlyingPawn_C_0] 5621.477539
+[2021.11.15-19.43.11:099][189]LogBlueprintUserMessages: [FlyingPawn_C_0] 5625.650391
+[2021.11.15-19.43.11:110][190]LogBlueprintUserMessages: [FlyingPawn_C_0] 5629.631348
+[2021.11.15-19.43.11:120][191]LogBlueprintUserMessages: [FlyingPawn_C_0] 5633.661621
+[2021.11.15-19.43.11:132][192]LogBlueprintUserMessages: [FlyingPawn_C_0] 5637.692383
+[2021.11.15-19.43.11:143][193]LogBlueprintUserMessages: [FlyingPawn_C_0] 5641.714844
+[2021.11.15-19.43.11:154][194]LogBlueprintUserMessages: [FlyingPawn_C_0] 5645.701172
+[2021.11.15-19.43.11:165][195]LogBlueprintUserMessages: [FlyingPawn_C_0] 5649.658691
+[2021.11.15-19.43.11:175][196]LogBlueprintUserMessages: [FlyingPawn_C_0] 5653.652832
+[2021.11.15-19.43.11:186][197]LogBlueprintUserMessages: [FlyingPawn_C_0] 5657.605469
+[2021.11.15-19.43.11:198][198]LogBlueprintUserMessages: [FlyingPawn_C_0] 5661.729004
+[2021.11.15-19.43.11:209][199]LogBlueprintUserMessages: [FlyingPawn_C_0] 5665.919922
+[2021.11.15-19.43.11:220][200]LogBlueprintUserMessages: [FlyingPawn_C_0] 5669.833984
+[2021.11.15-19.43.11:232][201]LogBlueprintUserMessages: [FlyingPawn_C_0] 5674.163086
+[2021.11.15-19.43.11:243][202]LogBlueprintUserMessages: [FlyingPawn_C_0] 5678.114746
+[2021.11.15-19.43.11:254][203]LogBlueprintUserMessages: [FlyingPawn_C_0] 5682.183594
+[2021.11.15-19.43.11:268][204]LogBlueprintUserMessages: [FlyingPawn_C_0] 5687.375
+[2021.11.15-19.43.11:279][205]LogBlueprintUserMessages: [FlyingPawn_C_0] 5691.419922
+[2021.11.15-19.43.11:290][206]LogBlueprintUserMessages: [FlyingPawn_C_0] 5695.334473
+[2021.11.15-19.43.11:301][207]LogBlueprintUserMessages: [FlyingPawn_C_0] 5699.476074
+[2021.11.15-19.43.11:312][208]LogBlueprintUserMessages: [FlyingPawn_C_0] 5703.554199
+[2021.11.15-19.43.11:324][209]LogBlueprintUserMessages: [FlyingPawn_C_0] 5707.746582
+[2021.11.15-19.43.11:335][210]LogBlueprintUserMessages: [FlyingPawn_C_0] 5711.980957
+[2021.11.15-19.43.11:346][211]LogBlueprintUserMessages: [FlyingPawn_C_0] 5715.998047
+[2021.11.15-19.43.11:358][212]LogBlueprintUserMessages: [FlyingPawn_C_0] 5720.484863
+[2021.11.15-19.43.11:370][213]LogBlueprintUserMessages: [FlyingPawn_C_0] 5724.649414
+[2021.11.15-19.43.11:381][214]LogBlueprintUserMessages: [FlyingPawn_C_0] 5728.724609
+[2021.11.15-19.43.11:392][215]LogBlueprintUserMessages: [FlyingPawn_C_0] 5732.691406
+[2021.11.15-19.43.11:403][216]LogBlueprintUserMessages: [FlyingPawn_C_0] 5736.851074
+[2021.11.15-19.43.11:414][217]LogBlueprintUserMessages: [FlyingPawn_C_0] 5740.855957
+[2021.11.15-19.43.11:425][218]LogBlueprintUserMessages: [FlyingPawn_C_0] 5744.814453
+[2021.11.15-19.43.11:436][219]LogBlueprintUserMessages: [FlyingPawn_C_0] 5748.760742
+[2021.11.15-19.43.11:447][220]LogBlueprintUserMessages: [FlyingPawn_C_0] 5752.820801
+[2021.11.15-19.43.11:458][221]LogBlueprintUserMessages: [FlyingPawn_C_0] 5757.022461
+[2021.11.15-19.43.11:469][222]LogBlueprintUserMessages: [FlyingPawn_C_0] 5761.213379
+[2021.11.15-19.43.11:480][223]LogBlueprintUserMessages: [FlyingPawn_C_0] 5765.253418
+[2021.11.15-19.43.11:491][224]LogBlueprintUserMessages: [FlyingPawn_C_0] 5769.109375
+[2021.11.15-19.43.11:502][225]LogBlueprintUserMessages: [FlyingPawn_C_0] 5773.367188
+[2021.11.15-19.43.11:513][226]LogBlueprintUserMessages: [FlyingPawn_C_0] 5777.34668
+[2021.11.15-19.43.11:524][227]LogBlueprintUserMessages: [FlyingPawn_C_0] 5781.376953
+[2021.11.15-19.43.11:535][228]LogBlueprintUserMessages: [FlyingPawn_C_0] 5785.562988
+[2021.11.15-19.43.11:547][229]LogBlueprintUserMessages: [FlyingPawn_C_0] 5789.811035
+[2021.11.15-19.43.11:558][230]LogBlueprintUserMessages: [FlyingPawn_C_0] 5793.705078
+[2021.11.15-19.43.11:569][231]LogBlueprintUserMessages: [FlyingPawn_C_0] 5797.881836
+[2021.11.15-19.43.11:580][232]LogBlueprintUserMessages: [FlyingPawn_C_0] 5801.819824
+[2021.11.15-19.43.11:591][233]LogBlueprintUserMessages: [FlyingPawn_C_0] 5805.902344
+[2021.11.15-19.43.11:602][234]LogBlueprintUserMessages: [FlyingPawn_C_0] 5810.094238
+[2021.11.15-19.43.11:616][235]LogBlueprintUserMessages: [FlyingPawn_C_0] 5815.375
+[2021.11.15-19.43.11:629][236]LogBlueprintUserMessages: [FlyingPawn_C_0] 5820.17627
+[2021.11.15-19.43.11:644][237]LogBlueprintUserMessages: [FlyingPawn_C_0] 5825.362793
+[2021.11.15-19.43.11:655][238]LogBlueprintUserMessages: [FlyingPawn_C_0] 5829.760742
+[2021.11.15-19.43.11:667][239]LogBlueprintUserMessages: [FlyingPawn_C_0] 5833.994141
+[2021.11.15-19.43.11:680][240]LogBlueprintUserMessages: [FlyingPawn_C_0] 5838.526855
+[2021.11.15-19.43.11:690][241]LogBlueprintUserMessages: [FlyingPawn_C_0] 5842.63623
+[2021.11.15-19.43.11:702][242]LogBlueprintUserMessages: [FlyingPawn_C_0] 5846.858887
+[2021.11.15-19.43.11:713][243]LogBlueprintUserMessages: [FlyingPawn_C_0] 5850.834473
+[2021.11.15-19.43.11:724][244]LogBlueprintUserMessages: [FlyingPawn_C_0] 5855.127441
+[2021.11.15-19.43.11:736][245]LogBlueprintUserMessages: [FlyingPawn_C_0] 5859.498535
+[2021.11.15-19.43.11:748][246]LogBlueprintUserMessages: [FlyingPawn_C_0] 5864.084473
+[2021.11.15-19.43.11:760][247]LogBlueprintUserMessages: [FlyingPawn_C_0] 5868.358887
+[2021.11.15-19.43.11:773][248]LogBlueprintUserMessages: [FlyingPawn_C_0] 5872.952637
+[2021.11.15-19.43.11:786][249]LogBlueprintUserMessages: [FlyingPawn_C_0] 5878.093262
+[2021.11.15-19.43.11:800][250]LogBlueprintUserMessages: [FlyingPawn_C_0] 5883.042969
+[2021.11.15-19.43.11:813][251]LogBlueprintUserMessages: [FlyingPawn_C_0] 5887.616211
+[2021.11.15-19.43.11:824][252]LogBlueprintUserMessages: [FlyingPawn_C_0] 5891.693848
+[2021.11.15-19.43.11:836][253]LogBlueprintUserMessages: [FlyingPawn_C_0] 5896.072754
+[2021.11.15-19.43.11:848][254]LogBlueprintUserMessages: [FlyingPawn_C_0] 5900.415039
+[2021.11.15-19.43.11:858][255]LogBlueprintUserMessages: [FlyingPawn_C_0] 5904.424316
+[2021.11.15-19.43.11:870][256]LogBlueprintUserMessages: [FlyingPawn_C_0] 5908.617676
+[2021.11.15-19.43.11:881][257]LogBlueprintUserMessages: [FlyingPawn_C_0] 5912.539551
+[2021.11.15-19.43.11:892][258]LogBlueprintUserMessages: [FlyingPawn_C_0] 5916.745117
+[2021.11.15-19.43.11:904][259]LogBlueprintUserMessages: [FlyingPawn_C_0] 5921.149902
+[2021.11.15-19.43.11:915][260]LogBlueprintUserMessages: [FlyingPawn_C_0] 5925.346191
+[2021.11.15-19.43.11:927][261]LogBlueprintUserMessages: [FlyingPawn_C_0] 5929.55957
+[2021.11.15-19.43.11:937][262]LogBlueprintUserMessages: [FlyingPawn_C_0] 5933.554688
+[2021.11.15-19.43.11:948][263]LogBlueprintUserMessages: [FlyingPawn_C_0] 5937.565918
+[2021.11.15-19.43.11:959][264]LogBlueprintUserMessages: [FlyingPawn_C_0] 5941.587402
+[2021.11.15-19.43.11:973][265]LogBlueprintUserMessages: [FlyingPawn_C_0] 5946.703613
+[2021.11.15-19.43.11:986][266]LogBlueprintUserMessages: [FlyingPawn_C_0] 5951.387695
+[2021.11.15-19.43.11:997][267]LogBlueprintUserMessages: [FlyingPawn_C_0] 5955.646973
+[2021.11.15-19.43.12:008][268]LogBlueprintUserMessages: [FlyingPawn_C_0] 5959.898438
+[2021.11.15-19.43.12:020][269]LogBlueprintUserMessages: [FlyingPawn_C_0] 5963.944336
+[2021.11.15-19.43.12:031][270]LogBlueprintUserMessages: [FlyingPawn_C_0] 5968.325684
+[2021.11.15-19.43.12:043][271]LogBlueprintUserMessages: [FlyingPawn_C_0] 5972.412109
+[2021.11.15-19.43.12:054][272]LogBlueprintUserMessages: [FlyingPawn_C_0] 5976.750488
+[2021.11.15-19.43.12:065][273]LogBlueprintUserMessages: [FlyingPawn_C_0] 5980.777832
+[2021.11.15-19.43.12:077][274]LogBlueprintUserMessages: [FlyingPawn_C_0] 5984.987305
+[2021.11.15-19.43.12:087][275]LogBlueprintUserMessages: [FlyingPawn_C_0] 5989.077637
+[2021.11.15-19.43.12:099][276]LogBlueprintUserMessages: [FlyingPawn_C_0] 5993.297852
+[2021.11.15-19.43.12:110][277]LogBlueprintUserMessages: [FlyingPawn_C_0] 5997.327637
+[2021.11.15-19.43.12:120][278]LogBlueprintUserMessages: [FlyingPawn_C_0] 6001.311035
+[2021.11.15-19.43.12:132][279]LogBlueprintUserMessages: [FlyingPawn_C_0] 6005.406738
+[2021.11.15-19.43.12:143][280]LogBlueprintUserMessages: [FlyingPawn_C_0] 6009.447266
+[2021.11.15-19.43.12:154][281]LogBlueprintUserMessages: [FlyingPawn_C_0] 6013.633301
+[2021.11.15-19.43.12:165][282]LogBlueprintUserMessages: [FlyingPawn_C_0] 6017.571777
+[2021.11.15-19.43.12:177][283]LogBlueprintUserMessages: [FlyingPawn_C_0] 6021.862793
+[2021.11.15-19.43.12:187][284]LogBlueprintUserMessages: [FlyingPawn_C_0] 6025.974121
+[2021.11.15-19.43.12:199][285]LogBlueprintUserMessages: [FlyingPawn_C_0] 6030.301758
+[2021.11.15-19.43.12:210][286]LogBlueprintUserMessages: [FlyingPawn_C_0] 6034.37793
+[2021.11.15-19.43.12:222][287]LogBlueprintUserMessages: [FlyingPawn_C_0] 6038.809082
+[2021.11.15-19.43.12:233][288]LogBlueprintUserMessages: [FlyingPawn_C_0] 6042.710938
+[2021.11.15-19.43.12:244][289]LogBlueprintUserMessages: [FlyingPawn_C_0] 6046.753418
+[2021.11.15-19.43.12:254][290]LogBlueprintUserMessages: [FlyingPawn_C_0] 6050.647461
+[2021.11.15-19.43.12:266][291]LogBlueprintUserMessages: [FlyingPawn_C_0] 6054.84082
+[2021.11.15-19.43.12:277][292]LogBlueprintUserMessages: [FlyingPawn_C_0] 6058.73291
+[2021.11.15-19.43.12:288][293]LogBlueprintUserMessages: [FlyingPawn_C_0] 6062.805176
+[2021.11.15-19.43.12:298][294]LogBlueprintUserMessages: [FlyingPawn_C_0] 6066.758301
+[2021.11.15-19.43.12:310][295]LogBlueprintUserMessages: [FlyingPawn_C_0] 6070.853516
+[2021.11.15-19.43.12:321][296]LogBlueprintUserMessages: [FlyingPawn_C_0] 6074.838867
+[2021.11.15-19.43.12:331][297]LogBlueprintUserMessages: [FlyingPawn_C_0] 6078.752441
+[2021.11.15-19.43.12:343][298]LogBlueprintUserMessages: [FlyingPawn_C_0] 6083.084473
+[2021.11.15-19.43.12:354][299]LogBlueprintUserMessages: [FlyingPawn_C_0] 6087.124512
+[2021.11.15-19.43.12:364][300]LogBlueprintUserMessages: [FlyingPawn_C_0] 6091.080078
+[2021.11.15-19.43.12:375][301]LogBlueprintUserMessages: [FlyingPawn_C_0] 6095.173828
+[2021.11.15-19.43.12:387][302]LogBlueprintUserMessages: [FlyingPawn_C_0] 6099.56543
+[2021.11.15-19.43.12:402][303]LogBlueprintUserMessages: [FlyingPawn_C_0] 6104.853516
+[2021.11.15-19.43.12:412][304]LogBlueprintUserMessages: [FlyingPawn_C_0] 6108.817383
+[2021.11.15-19.43.12:424][305]LogBlueprintUserMessages: [FlyingPawn_C_0] 6112.956543
+[2021.11.15-19.43.12:435][306]LogBlueprintUserMessages: [FlyingPawn_C_0] 6117.245117
+[2021.11.15-19.43.12:447][307]LogBlueprintUserMessages: [FlyingPawn_C_0] 6121.578125
+[2021.11.15-19.43.12:459][308]LogBlueprintUserMessages: [FlyingPawn_C_0] 6125.854004
+[2021.11.15-19.43.12:471][309]LogBlueprintUserMessages: [FlyingPawn_C_0] 6130.353516
+[2021.11.15-19.43.12:482][310]LogBlueprintUserMessages: [FlyingPawn_C_0] 6134.452637
+[2021.11.15-19.43.12:493][311]LogBlueprintUserMessages: [FlyingPawn_C_0] 6138.472656
+[2021.11.15-19.43.12:504][312]LogBlueprintUserMessages: [FlyingPawn_C_0] 6142.634766
+[2021.11.15-19.43.12:515][313]LogBlueprintUserMessages: [FlyingPawn_C_0] 6146.796387
+[2021.11.15-19.43.12:526][314]LogBlueprintUserMessages: [FlyingPawn_C_0] 6150.700684
+[2021.11.15-19.43.12:537][315]LogBlueprintUserMessages: [FlyingPawn_C_0] 6154.903809
+[2021.11.15-19.43.12:548][316]LogBlueprintUserMessages: [FlyingPawn_C_0] 6158.88916
+[2021.11.15-19.43.12:559][317]LogBlueprintUserMessages: [FlyingPawn_C_0] 6163.06543
+[2021.11.15-19.43.12:571][318]LogBlueprintUserMessages: [FlyingPawn_C_0] 6167.323242
+[2021.11.15-19.43.12:582][319]LogBlueprintUserMessages: [FlyingPawn_C_0] 6171.273438
+[2021.11.15-19.43.12:593][320]LogBlueprintUserMessages: [FlyingPawn_C_0] 6175.245605
+[2021.11.15-19.43.12:605][321]LogBlueprintUserMessages: [FlyingPawn_C_0] 6179.603516
+[2021.11.15-19.43.12:619][322]LogBlueprintUserMessages: [FlyingPawn_C_0] 6184.802246
+[2021.11.15-19.43.12:632][323]LogBlueprintUserMessages: [FlyingPawn_C_0] 6189.471191
+[2021.11.15-19.43.12:648][324]LogBlueprintUserMessages: [FlyingPawn_C_0] 6195.635742
+[2021.11.15-19.43.12:661][325]LogBlueprintUserMessages: [FlyingPawn_C_0] 6200.130371
+[2021.11.15-19.43.12:672][326]LogBlueprintUserMessages: [FlyingPawn_C_0] 6204.415039
+[2021.11.15-19.43.12:682][327]LogBlueprintUserMessages: [FlyingPawn_C_0] 6208.51416
+[2021.11.15-19.43.12:693][328]LogBlueprintUserMessages: [FlyingPawn_C_0] 6212.506836
+[2021.11.15-19.43.12:705][329]LogBlueprintUserMessages: [FlyingPawn_C_0] 6216.812988
+[2021.11.15-19.43.12:717][330]LogBlueprintUserMessages: [FlyingPawn_C_0] 6221.274414
+[2021.11.15-19.43.12:729][331]LogBlueprintUserMessages: [FlyingPawn_C_0] 6225.550293
+[2021.11.15-19.43.12:741][332]LogBlueprintUserMessages: [FlyingPawn_C_0] 6230.001465
+[2021.11.15-19.43.12:752][333]LogBlueprintUserMessages: [FlyingPawn_C_0] 6234.208008
+[2021.11.15-19.43.12:763][334]LogBlueprintUserMessages: [FlyingPawn_C_0] 6238.240723
+[2021.11.15-19.43.12:775][335]LogBlueprintUserMessages: [FlyingPawn_C_0] 6242.471191
+[2021.11.15-19.43.12:786][336]LogBlueprintUserMessages: [FlyingPawn_C_0] 6246.775879
+[2021.11.15-19.43.12:798][337]LogBlueprintUserMessages: [FlyingPawn_C_0] 6251.110352
+[2021.11.15-19.43.12:811][338]LogBlueprintUserMessages: [FlyingPawn_C_0] 6255.51709
+[2021.11.15-19.43.12:822][339]LogBlueprintUserMessages: [FlyingPawn_C_0] 6259.694336
+[2021.11.15-19.43.12:833][340]LogBlueprintUserMessages: [FlyingPawn_C_0] 6263.772461
+[2021.11.15-19.43.12:844][341]LogBlueprintUserMessages: [FlyingPawn_C_0] 6267.86377
+[2021.11.15-19.43.12:855][342]LogBlueprintUserMessages: [FlyingPawn_C_0] 6272.062012
+[2021.11.15-19.43.12:866][343]LogBlueprintUserMessages: [FlyingPawn_C_0] 6275.941895
+[2021.11.15-19.43.12:878][344]LogBlueprintUserMessages: [FlyingPawn_C_0] 6280.711426
+[2021.11.15-19.43.12:890][345]LogBlueprintUserMessages: [FlyingPawn_C_0] 6284.921387
+[2021.11.15-19.43.12:901][346]LogBlueprintUserMessages: [FlyingPawn_C_0] 6289.163086
+[2021.11.15-19.43.12:912][347]LogBlueprintUserMessages: [FlyingPawn_C_0] 6293.144043
+[2021.11.15-19.43.12:923][348]LogBlueprintUserMessages: [FlyingPawn_C_0] 6297.117188
+[2021.11.15-19.43.12:934][349]LogBlueprintUserMessages: [FlyingPawn_C_0] 6301.23584
+[2021.11.15-19.43.12:946][350]LogBlueprintUserMessages: [FlyingPawn_C_0] 6305.602539
+[2021.11.15-19.43.12:956][351]LogBlueprintUserMessages: [FlyingPawn_C_0] 6309.483398
+[2021.11.15-19.43.12:967][352]LogBlueprintUserMessages: [FlyingPawn_C_0] 6313.507324
+[2021.11.15-19.43.12:979][353]LogBlueprintUserMessages: [FlyingPawn_C_0] 6317.666992
+[2021.11.15-19.43.12:989][354]LogBlueprintUserMessages: [FlyingPawn_C_0] 6321.678223
+[2021.11.15-19.43.13:001][355]LogBlueprintUserMessages: [FlyingPawn_C_0] 6325.891113
+[2021.11.15-19.43.13:012][356]LogBlueprintUserMessages: [FlyingPawn_C_0] 6329.866699
+[2021.11.15-19.43.13:024][357]LogBlueprintUserMessages: [FlyingPawn_C_0] 6334.290039
+[2021.11.15-19.43.13:036][358]LogBlueprintUserMessages: [FlyingPawn_C_0] 6338.983887
+[2021.11.15-19.43.13:048][359]LogBlueprintUserMessages: [FlyingPawn_C_0] 6343.059082
+[2021.11.15-19.43.13:058][360]LogBlueprintUserMessages: [FlyingPawn_C_0] 6347.026855
+[2021.11.15-19.43.13:070][361]LogBlueprintUserMessages: [FlyingPawn_C_0] 6351.194336
+[2021.11.15-19.43.13:080][362]LogBlueprintUserMessages: [FlyingPawn_C_0] 6355.199707
+[2021.11.15-19.43.13:091][363]LogBlueprintUserMessages: [FlyingPawn_C_0] 6359.253906
+[2021.11.15-19.43.13:103][364]LogBlueprintUserMessages: [FlyingPawn_C_0] 6363.412109
+[2021.11.15-19.43.13:114][365]LogBlueprintUserMessages: [FlyingPawn_C_0] 6367.517578
+[2021.11.15-19.43.13:125][366]LogBlueprintUserMessages: [FlyingPawn_C_0] 6371.772949
+[2021.11.15-19.43.13:137][367]LogBlueprintUserMessages: [FlyingPawn_C_0] 6375.851562
+[2021.11.15-19.43.13:149][368]LogBlueprintUserMessages: [FlyingPawn_C_0] 6380.62207
+[2021.11.15-19.43.13:160][369]LogBlueprintUserMessages: [FlyingPawn_C_0] 6384.625
+[2021.11.15-19.43.13:171][370]LogBlueprintUserMessages: [FlyingPawn_C_0] 6388.57373
+[2021.11.15-19.43.13:182][371]LogBlueprintUserMessages: [FlyingPawn_C_0] 6392.76123
+[2021.11.15-19.43.13:193][372]LogBlueprintUserMessages: [FlyingPawn_C_0] 6396.544434
+[2021.11.15-19.43.13:204][373]LogBlueprintUserMessages: [FlyingPawn_C_0] 6400.621094
+[2021.11.15-19.43.13:215][374]LogBlueprintUserMessages: [FlyingPawn_C_0] 6404.89502
+[2021.11.15-19.43.13:226][375]LogBlueprintUserMessages: [FlyingPawn_C_0] 6408.84668
+[2021.11.15-19.43.13:238][376]LogBlueprintUserMessages: [FlyingPawn_C_0] 6413.174805
+[2021.11.15-19.43.13:249][377]LogBlueprintUserMessages: [FlyingPawn_C_0] 6417.100098
+[2021.11.15-19.43.13:260][378]LogBlueprintUserMessages: [FlyingPawn_C_0] 6421.345215
+[2021.11.15-19.43.13:274][379]LogBlueprintUserMessages: [FlyingPawn_C_0] 6426.452148
+[2021.11.15-19.43.13:285][380]LogBlueprintUserMessages: [FlyingPawn_C_0] 6430.495605
+[2021.11.15-19.43.13:296][381]LogBlueprintUserMessages: [FlyingPawn_C_0] 6434.539551
+[2021.11.15-19.43.13:307][382]LogBlueprintUserMessages: [FlyingPawn_C_0] 6438.61084
+[2021.11.15-19.43.13:318][383]LogBlueprintUserMessages: [FlyingPawn_C_0] 6442.46582
+[2021.11.15-19.43.13:330][384]LogBlueprintUserMessages: [FlyingPawn_C_0] 6447.002441
+[2021.11.15-19.43.13:341][385]LogBlueprintUserMessages: [FlyingPawn_C_0] 6451.036621
+[2021.11.15-19.43.13:352][386]LogBlueprintUserMessages: [FlyingPawn_C_0] 6454.999512
+[2021.11.15-19.43.13:364][387]LogBlueprintUserMessages: [FlyingPawn_C_0] 6459.462891
+[2021.11.15-19.43.13:377][388]LogBlueprintUserMessages: [FlyingPawn_C_0] 6464.227051
+[2021.11.15-19.43.13:388][389]LogBlueprintUserMessages: [FlyingPawn_C_0] 6468.376465
+[2021.11.15-19.43.13:399][390]LogBlueprintUserMessages: [FlyingPawn_C_0] 6472.500488
+[2021.11.15-19.43.13:413][391]LogBlueprintUserMessages: [FlyingPawn_C_0] 6477.383301
+[2021.11.15-19.43.13:424][392]LogBlueprintUserMessages: [FlyingPawn_C_0] 6481.570312
+[2021.11.15-19.43.13:436][393]LogBlueprintUserMessages: [FlyingPawn_C_0] 6485.833984
+[2021.11.15-19.43.13:447][394]LogBlueprintUserMessages: [FlyingPawn_C_0] 6489.907227
+[2021.11.15-19.43.13:460][395]LogBlueprintUserMessages: [FlyingPawn_C_0] 6494.78125
+[2021.11.15-19.43.13:471][396]LogBlueprintUserMessages: [FlyingPawn_C_0] 6498.952637
+[2021.11.15-19.43.13:482][397]LogBlueprintUserMessages: [FlyingPawn_C_0] 6502.962402
+[2021.11.15-19.43.13:492][398]LogBlueprintUserMessages: [FlyingPawn_C_0] 6506.881836
+[2021.11.15-19.43.13:504][399]LogBlueprintUserMessages: [FlyingPawn_C_0] 6511.238281
+[2021.11.15-19.43.13:515][400]LogBlueprintUserMessages: [FlyingPawn_C_0] 6515.333008
+[2021.11.15-19.43.13:526][401]LogBlueprintUserMessages: [FlyingPawn_C_0] 6519.25
+[2021.11.15-19.43.13:537][402]LogBlueprintUserMessages: [FlyingPawn_C_0] 6523.440918
+[2021.11.15-19.43.13:548][403]LogBlueprintUserMessages: [FlyingPawn_C_0] 6527.504883
+[2021.11.15-19.43.13:559][404]LogBlueprintUserMessages: [FlyingPawn_C_0] 6531.562012
+[2021.11.15-19.43.13:570][405]LogBlueprintUserMessages: [FlyingPawn_C_0] 6535.671875
+[2021.11.15-19.43.13:582][406]LogBlueprintUserMessages: [FlyingPawn_C_0] 6539.839355
+[2021.11.15-19.43.13:594][407]LogBlueprintUserMessages: [FlyingPawn_C_0] 6544.254883
+[2021.11.15-19.43.13:606][408]LogBlueprintUserMessages: [FlyingPawn_C_0] 6548.643066
+[2021.11.15-19.43.13:619][409]LogBlueprintUserMessages: [FlyingPawn_C_0] 6553.578125
+[2021.11.15-19.43.13:632][410]LogBlueprintUserMessages: [FlyingPawn_C_0] 6558.225586
+[2021.11.15-19.43.13:645][411]LogBlueprintUserMessages: [FlyingPawn_C_0] 6563.316895
+[2021.11.15-19.43.13:659][412]LogBlueprintUserMessages: [FlyingPawn_C_0] 6568.124023
+[2021.11.15-19.43.13:671][413]LogBlueprintUserMessages: [FlyingPawn_C_0] 6572.910156
+[2021.11.15-19.43.13:683][414]LogBlueprintUserMessages: [FlyingPawn_C_0] 6577.108398
+[2021.11.15-19.43.13:693][415]LogBlueprintUserMessages: [FlyingPawn_C_0] 6580.979004
+[2021.11.15-19.43.13:705][416]LogBlueprintUserMessages: [FlyingPawn_C_0] 6585.254883
+[2021.11.15-19.43.13:715][417]LogBlueprintUserMessages: [FlyingPawn_C_0] 6589.29541
+[2021.11.15-19.43.13:726][418]LogBlueprintUserMessages: [FlyingPawn_C_0] 6593.203613
+[2021.11.15-19.43.13:737][419]LogBlueprintUserMessages: [FlyingPawn_C_0] 6597.26709
+[2021.11.15-19.43.13:748][420]LogBlueprintUserMessages: [FlyingPawn_C_0] 6601.143066
+[2021.11.15-19.43.13:759][421]LogBlueprintUserMessages: [FlyingPawn_C_0] 6605.060059
+[2021.11.15-19.43.13:770][422]LogBlueprintUserMessages: [FlyingPawn_C_0] 6609.017578
+[2021.11.15-19.43.13:781][423]LogBlueprintUserMessages: [FlyingPawn_C_0] 6613.163574
+[2021.11.15-19.43.13:792][424]LogBlueprintUserMessages: [FlyingPawn_C_0] 6617.132812
+[2021.11.15-19.43.13:804][425]LogBlueprintUserMessages: [FlyingPawn_C_0] 6621.799805
+[2021.11.15-19.43.13:816][426]LogBlueprintUserMessages: [FlyingPawn_C_0] 6626.221191
+[2021.11.15-19.43.13:827][427]LogBlueprintUserMessages: [FlyingPawn_C_0] 6630.184082
+[2021.11.15-19.43.13:838][428]LogBlueprintUserMessages: [FlyingPawn_C_0] 6634.193848
+[2021.11.15-19.43.13:850][429]LogBlueprintUserMessages: [FlyingPawn_C_0] 6638.445312
+[2021.11.15-19.43.13:861][430]LogBlueprintUserMessages: [FlyingPawn_C_0] 6642.53125
+[2021.11.15-19.43.13:872][431]LogBlueprintUserMessages: [FlyingPawn_C_0] 6646.705078
+[2021.11.15-19.43.13:883][432]LogBlueprintUserMessages: [FlyingPawn_C_0] 6650.716797
+[2021.11.15-19.43.13:897][433]LogBlueprintUserMessages: [FlyingPawn_C_0] 6655.655762
+[2021.11.15-19.43.13:908][434]LogBlueprintUserMessages: [FlyingPawn_C_0] 6659.63916
+[2021.11.15-19.43.13:919][435]LogBlueprintUserMessages: [FlyingPawn_C_0] 6663.625
+[2021.11.15-19.43.13:929][436]LogBlueprintUserMessages: [FlyingPawn_C_0] 6667.503418
+[2021.11.15-19.43.13:940][437]LogBlueprintUserMessages: [FlyingPawn_C_0] 6671.581055
+[2021.11.15-19.43.13:951][438]LogBlueprintUserMessages: [FlyingPawn_C_0] 6675.518555
+[2021.11.15-19.43.13:962][439]LogBlueprintUserMessages: [FlyingPawn_C_0] 6679.396973
+[2021.11.15-19.43.13:973][440]LogBlueprintUserMessages: [FlyingPawn_C_0] 6683.499512
+[2021.11.15-19.43.13:984][441]LogBlueprintUserMessages: [FlyingPawn_C_0] 6687.62793
+[2021.11.15-19.43.13:996][442]LogBlueprintUserMessages: [FlyingPawn_C_0] 6691.927246
+[2021.11.15-19.43.14:008][443]LogBlueprintUserMessages: [FlyingPawn_C_0] 6696.114258
+[2021.11.15-19.43.14:018][444]LogBlueprintUserMessages: [FlyingPawn_C_0] 6700.003906
+[2021.11.15-19.43.14:029][445]LogBlueprintUserMessages: [FlyingPawn_C_0] 6704.066406
+[2021.11.15-19.43.14:040][446]LogBlueprintUserMessages: [FlyingPawn_C_0] 6708.088379
+[2021.11.15-19.43.14:051][447]LogBlueprintUserMessages: [FlyingPawn_C_0] 6712.097656
+[2021.11.15-19.43.14:061][448]LogBlueprintUserMessages: [FlyingPawn_C_0] 6716.014648
+[2021.11.15-19.43.14:074][449]LogBlueprintUserMessages: [FlyingPawn_C_0] 6720.491699
+[2021.11.15-19.43.14:085][450]LogBlueprintUserMessages: [FlyingPawn_C_0] 6724.766113
+[2021.11.15-19.43.14:096][451]LogBlueprintUserMessages: [FlyingPawn_C_0] 6728.757324
+[2021.11.15-19.43.14:109][452]LogBlueprintUserMessages: [FlyingPawn_C_0] 6733.429199
+[2021.11.15-19.43.14:120][453]LogBlueprintUserMessages: [FlyingPawn_C_0] 6737.461914
+[2021.11.15-19.43.14:131][454]LogBlueprintUserMessages: [FlyingPawn_C_0] 6741.350586
+[2021.11.15-19.43.14:141][455]LogBlueprintUserMessages: [FlyingPawn_C_0] 6745.493652
+[2021.11.15-19.43.14:153][456]LogBlueprintUserMessages: [FlyingPawn_C_0] 6749.557617
+[2021.11.15-19.43.14:163][457]LogBlueprintUserMessages: [FlyingPawn_C_0] 6753.425781
+[2021.11.15-19.43.14:174][458]LogBlueprintUserMessages: [FlyingPawn_C_0] 6757.547852
+[2021.11.15-19.43.14:186][459]LogBlueprintUserMessages: [FlyingPawn_C_0] 6761.618652
+[2021.11.15-19.43.14:197][460]LogBlueprintUserMessages: [FlyingPawn_C_0] 6765.651855
+[2021.11.15-19.43.14:208][461]LogBlueprintUserMessages: [FlyingPawn_C_0] 6769.729492
+[2021.11.15-19.43.14:219][462]LogBlueprintUserMessages: [FlyingPawn_C_0] 6773.804199
+[2021.11.15-19.43.14:229][463]LogBlueprintUserMessages: [FlyingPawn_C_0] 6777.748535
+[2021.11.15-19.43.14:241][464]LogBlueprintUserMessages: [FlyingPawn_C_0] 6781.998047
+[2021.11.15-19.43.14:252][465]LogBlueprintUserMessages: [FlyingPawn_C_0] 6786.086914
+[2021.11.15-19.43.14:263][466]LogBlueprintUserMessages: [FlyingPawn_C_0] 6790.092773
+[2021.11.15-19.43.14:275][467]LogBlueprintUserMessages: [FlyingPawn_C_0] 6794.169922
+[2021.11.15-19.43.14:285][468]LogBlueprintUserMessages: [FlyingPawn_C_0] 6798.202148
+[2021.11.15-19.43.14:296][469]LogBlueprintUserMessages: [FlyingPawn_C_0] 6802.116699
+[2021.11.15-19.43.14:308][470]LogBlueprintUserMessages: [FlyingPawn_C_0] 6806.280273
+[2021.11.15-19.43.14:318][471]LogBlueprintUserMessages: [FlyingPawn_C_0] 6810.150879
+[2021.11.15-19.43.14:329][472]LogBlueprintUserMessages: [FlyingPawn_C_0] 6814.12207
+[2021.11.15-19.43.14:340][473]LogBlueprintUserMessages: [FlyingPawn_C_0] 6818.131348
+[2021.11.15-19.43.14:351][474]LogBlueprintUserMessages: [FlyingPawn_C_0] 6822.041504
+[2021.11.15-19.43.14:361][475]LogBlueprintUserMessages: [FlyingPawn_C_0] 6825.916016
+[2021.11.15-19.43.14:373][476]LogBlueprintUserMessages: [FlyingPawn_C_0] 6829.989258
+[2021.11.15-19.43.14:384][477]LogBlueprintUserMessages: [FlyingPawn_C_0] 6834.050781
+[2021.11.15-19.43.14:394][478]LogBlueprintUserMessages: [FlyingPawn_C_0] 6837.971191
+[2021.11.15-19.43.14:407][479]LogBlueprintUserMessages: [FlyingPawn_C_0] 6842.564941
+[2021.11.15-19.43.14:418][480]LogBlueprintUserMessages: [FlyingPawn_C_0] 6846.793945
+[2021.11.15-19.43.14:429][481]LogBlueprintUserMessages: [FlyingPawn_C_0] 6850.759277
+[2021.11.15-19.43.14:440][482]LogBlueprintUserMessages: [FlyingPawn_C_0] 6854.802246
+[2021.11.15-19.43.14:451][483]LogBlueprintUserMessages: [FlyingPawn_C_0] 6858.811035
+[2021.11.15-19.43.14:462][484]LogBlueprintUserMessages: [FlyingPawn_C_0] 6862.729492
+[2021.11.15-19.43.14:473][485]LogBlueprintUserMessages: [FlyingPawn_C_0] 6866.985352
+[2021.11.15-19.43.14:484][486]LogBlueprintUserMessages: [FlyingPawn_C_0] 6871.041992
+[2021.11.15-19.43.14:499][487]LogBlueprintUserMessages: [FlyingPawn_C_0] 6876.217773
+[2021.11.15-19.43.14:523][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-19.43.14:523][487]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EndlessRunner
+[2021.11.15-19.43.14:524][487]LogSlate: Window 'RabbitsOnWings Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.15-19.43.14:530][487]LogWorld: UWorld::CleanupWorld for EndlessRunner, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.43.14:537][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-19.43.14:546][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.15-19.43.14:549][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-19.43.14:569][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-19.43.14:570][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-19.43.14:576][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.11.15-19.43.14:603][488]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.15-19.43.16:149][656]LogSavePackage: Moving '../../../../../../Users/Javie/Documents/GitHub/RabbitsOnWingsV2/Pruebas_Terreno/Saved/FlyingPawnC2B33F9D44649D195457C5BAD0365EAA.tmp' to '../../../../../../Users/Javie/Documents/GitHub/RabbitsOnWingsV2/Pruebas_Terreno/Content/ThirdPersonBP/Blueprints/FlyingPawn.uasset'
+[2021.11.15-19.43.16:161][656]AssetCheck: New page: Asset Save: FlyingPawn
+[2021.11.15-19.43.16:161][656]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FlyingPawn.FlyingPawn
+[2021.11.15-19.43.18:329][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.11.15-19.43.19:293][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.11.15-19.43.19:312][ 10]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.43.19:312][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-19.43.19:357][ 10]LogSlate: Window 'Pruebas_Terreno - Unreal Editor' being destroyed
+[2021.11.15-19.43.19:515][ 11]Cmd: QUIT_EDITOR
+[2021.11.15-19.43.19:515][ 11]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.11.15-19.43.19:528][ 11]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.15-19.43.20:272][ 11]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.15-19.43.20:272][ 11]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.15-19.43.20:272][ 11]LogAudio: Display: Audio Device unregistered from world 'Menu'.
+[2021.11.15-19.43.20:272][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-19.43.20:274][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-19.43.20:281][ 11]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.15-19.43.20:288][ 11]LogExit: Preparing to exit.
+[2021.11.15-19.43.21:016][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.11.15-19.43.21:115][ 11]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.43.21:118][ 11]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.43.21:120][ 11]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.43.21:122][ 11]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.43.21:169][ 11]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.15-19.43.21:175][ 11]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-19.43.21:176][ 11]LogExit: Editor shut down
+[2021.11.15-19.43.21:177][ 11]LogExit: Transaction tracking system shut down
+[2021.11.15-19.43.21:507][ 11]LogExit: Object subsystem successfully closed.
+[2021.11.15-19.43.21:522][ 11]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.15-19.43.21:522][ 11]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.11.15-19.43.21:522][ 11]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.11.15-19.43.21:522][ 11]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.15-19.43.21:522][ 11]LogShaderCompilers: Display: ================================================
+[2021.11.15-19.43.21:536][ 11]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.11.15-19.43.21:588][ 11]LogModuleManager: Shutting down and abandoning module BlueprintGraph (880)
+[2021.11.15-19.43.21:588][ 11]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2021.11.15-19.43.21:588][ 11]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2021.11.15-19.43.21:588][ 11]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (874)
+[2021.11.15-19.43.21:588][ 11]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (872)
+[2021.11.15-19.43.21:588][ 11]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2021.11.15-19.43.21:588][ 11]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module StatsViewer (862)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (860)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (858)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module AutomationWorker (856)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module SteamVREditor (854)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module OculusMR (852)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module TextureAlignMode (850)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module BspMode (848)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module GeometryMode (846)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (844)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module TakeRecorder (843)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (840)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module TakesCore (838)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module OpenXRInput (836)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module GooglePADEditor (834)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (832)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (830)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (828)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (826)
+[2021.11.15-19.43.21:589][ 11]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (820)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module PlanarCut (792)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module CharacterAI (790)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (788)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (786)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (784)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (782)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2021.11.15-19.43.21:590][ 11]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module FoliageEdit (772)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module LandscapeEditor (770)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module MeshPaintMode (768)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module PlacementMode (762)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module ViewportSnapping (760)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2021.11.15-19.43.21:595][ 11]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2021.11.15-19.43.21:596][ 11]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (749)
+[2021.11.15-19.43.21:596][ 11]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (746)
+[2021.11.15-19.43.21:596][ 11]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (744)
+[2021.11.15-19.43.21:596][ 11]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (742)
+[2021.11.15-19.43.21:596][ 11]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (741)
+[2021.11.15-19.43.23:358][ 11]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (738)
+[2021.11.15-19.43.23:358][ 11]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (736)
+[2021.11.15-19.43.23:358][ 11]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (734)
+[2021.11.15-19.43.23:358][ 11]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (732)
+[2021.11.15-19.43.23:358][ 11]LogModuleManager: Shutting down and abandoning module TraceInsights (730)
+[2021.11.15-19.43.23:359][ 11]MemoryProfiler: Shutdown
+[2021.11.15-19.43.23:359][ 11]NetworkingProfiler: Shutdown
+[2021.11.15-19.43.23:359][ 11]LoadingProfiler: Shutdown
+[2021.11.15-19.43.23:359][ 11]TimingProfiler: Shutdown
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module TraceServices (729)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (726)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (724)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module InputBindingEditor (722)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module MergeActors (720)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (718)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module LocalizationService (717)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module HardwareTargeting (714)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (712)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module UndoHistory (710)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module XmlParser (708)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module Blutility (706)
+[2021.11.15-19.43.23:359][ 11]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (704)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (703)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (700)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (699)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module SettingsEditor (696)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module ProjectLauncher (694)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module SessionFrontend (692)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module ProfilerClient (690)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module DeviceManager (688)
+[2021.11.15-19.43.23:360][ 11]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (687)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module AutomationController (684)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module AutomationWindow (682)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module Layers (680)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (678)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module DetailCustomizations (676)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module PackagesDialog (674)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (672)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module Persona (670)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (669)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module AnimGraph (667)
+[2021.11.15-19.43.23:393][ 11]LogModuleManager: Shutting down and abandoning module Kismet (664)
+[2021.11.15-19.43.23:404][ 11]LogModuleManager: Shutting down and abandoning module KismetWidgets (663)
+[2021.11.15-19.43.23:405][ 11]LogModuleManager: Shutting down and abandoning module GraphEditor (660)
+[2021.11.15-19.43.23:405][ 11]LogModuleManager: Shutting down and abandoning module StructViewer (658)
+[2021.11.15-19.43.23:405][ 11]LogModuleManager: Shutting down and abandoning module ClassViewer (656)
+[2021.11.15-19.43.23:405][ 11]LogModuleManager: Shutting down and abandoning module Toolbox (654)
+[2021.11.15-19.43.23:405][ 11]LogModuleManager: Shutting down and abandoning module ModuleUI (652)
+[2021.11.15-19.43.23:405][ 11]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2021.11.15-19.43.23:411][ 11]LogModuleManager: Shutting down and abandoning module GammaUI (648)
+[2021.11.15-19.43.23:411][ 11]LogModuleManager: Shutting down and abandoning module Documentation (646)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module LiveCoding (644)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module LevelSequence (642)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (640)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module MovieScene (638)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (636)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module LauncherPlatform (634)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module AnalyticsET (632)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module PortalServices (630)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module PortalRpc (628)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module MessagingRpc (626)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (624)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module AudioMixerCore (623)
+[2021.11.15-19.43.23:412][ 11]LogModuleManager: Shutting down and abandoning module AIModule (620)
+[2021.11.15-19.43.23:413][ 11]LogModuleManager: Shutting down and abandoning module GameplayDebugger (619)
+[2021.11.15-19.43.23:413][ 11]LogModuleManager: Shutting down and abandoning module AITestSuite (617)
+[2021.11.15-19.43.23:413][ 11]LogModuleManager: Shutting down and abandoning module NavigationSystem (615)
+[2021.11.15-19.43.23:413][ 11]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (612)
+[2021.11.15-19.43.23:413][ 11]LogModuleManager: Shutting down and abandoning module ProfilerService (610)
+[2021.11.15-19.43.23:619][ 11]LogModuleManager: Shutting down and abandoning module TaskGraph (608)
+[2021.11.15-19.43.23:619][ 11]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (606)
+[2021.11.15-19.43.23:620][ 11]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (604)
+[2021.11.15-19.43.23:620][ 11]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (602)
+[2021.11.15-19.43.23:620][ 11]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2021.11.15-19.43.23:620][ 11]LogModuleManager: Shutting down and abandoning module CollectionManager (599)
+[2021.11.15-19.43.23:620][ 11]LogModuleManager: Shutting down and abandoning module OculusEditor (596)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module OculusInput (594)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (592)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (590)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module PluginBrowser (588)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (586)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (584)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module CryptoKeys (582)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module CurveEditorTools (580)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module SynthesisEditor (578)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module Synthesis (576)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (574)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (572)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module TakeSequencer (570)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module TakeMovieScene (568)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module OpenXREditor (566)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (564)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module ScreenshotTools (562)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module GooglePAD (560)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module EditableMesh (558)
+[2021.11.15-19.43.23:621][ 11]LogModuleManager: Shutting down and abandoning module AudioCapture (556)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (555)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (552)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module CableComponent (550)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (548)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module AppleImageUtils (546)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (544)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module AssetTags (542)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module AndroidPermission (540)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (538)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (536)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module TemplateSequence (534)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module MediaCompositing (532)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module ImgMedia (530)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module RawInput (528)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (526)
+[2021.11.15-19.43.23:622][ 11]LogOpenImageDenoise: OIDN shutting down
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (524)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module MotoSynth (522)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (512)
+[2021.11.15-19.43.23:622][ 11]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (510)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (508)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (507)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (504)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (502)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (500)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (498)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (496)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module ChaosNiagara (494)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (492)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module FractureEditor (490)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (489)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (486)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (484)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (482)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (480)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (478)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module BackChannel (476)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (474)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module AutomationUtils (472)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module AlembicImporter (470)
+[2021.11.15-19.43.23:623][ 11]LogModuleManager: Shutting down and abandoning module AlembicLibrary (469)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module GeometryCache (468)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (467)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (462)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (460)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2021.11.15-19.43.23:624][ 11]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2021.11.15-19.43.23:625][ 11]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2021.11.15-19.43.23:625][ 11]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2021.11.15-19.43.23:625][ 11]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2021.11.15-19.43.23:625][ 11]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2021.11.15-19.43.23:625][ 11]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2021.11.15-19.43.24:209][ 11]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2021.11.15-19.43.24:209][ 11]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2021.11.15-19.43.24:209][ 11]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (410)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (408)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module FacialAnimation (406)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module DataValidation (404)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (402)
+[2021.11.15-19.43.24:210][ 11]LogModuleManager: Shutting down and abandoning module LevelEditor (401)
+[2021.11.15-19.43.24:211][ 11]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (400)
+[2021.11.15-19.43.24:211][ 11]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (398)
+[2021.11.15-19.43.24:211][ 11]LogModuleManager: Shutting down and abandoning module MainFrame (396)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module HotReload (395)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module ToolMenus (391)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module TreeMap (389)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module SignificanceManager (386)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module SoundFields (384)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (382)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (380)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (378)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2021.11.15-19.43.24:212][ 11]LogModuleManager: Shutting down and abandoning module UdpMessaging (368)
+[2021.11.15-19.43.24:313][ 11]LogModuleManager: Shutting down and abandoning module TcpMessaging (366)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module ActorSequence (364)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (362)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (358)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (356)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (354)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (352)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (350)
+[2021.11.15-19.43.24:414][ 11]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (348)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (346)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (344)
+[2021.11.15-19.43.24:414][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (342)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapController (340)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (338)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module MagicLeapAR (336)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module GameplayCameras (334)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (332)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module Niagara (330)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module SignalProcessing (329)
+[2021.11.15-19.43.24:415][ 11]LogModuleManager: Shutting down and abandoning module NiagaraEditor (327)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module ContentBrowser (326)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module ContentBrowserData (325)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module NiagaraCore (320)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.11.15-19.43.24:416][ 11]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2021.11.15-19.43.24:418][ 11]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2021.11.15-19.43.24:418][ 11]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.11.15-19.43.24:419][ 11]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.11.15-19.43.24:421][ 11]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.11.15-19.43.24:421][ 11]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.11.15-19.43.24:421][ 11]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.11.15-19.43.24:421][ 11]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.11.15-19.43.24:422][ 11]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.11.15-19.43.24:424][ 11]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.11.15-19.43.24:425][ 11]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.11.15-19.43.24:426][ 11]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.11.15-19.43.24:427][ 11]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.11.15-19.43.24:428][ 11]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.11.15-19.43.24:428][ 11]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.11.15-19.43.24:428][ 11]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.11.15-19.43.24:428][ 11]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.11.15-19.43.24:429][ 11]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.11.15-19.43.24:429][ 11]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.11.15-19.43.24:429][ 11]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.11.15-19.43.24:429][ 11]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.11.15-19.43.24:429][ 11]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.11.15-19.43.24:429][ 11]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.11.15-19.43.24:430][ 11]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.11.15-19.43.24:430][ 11]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.11.15-19.43.24:430][ 11]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.11.15-19.43.24:431][ 11]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.11.15-19.43.24:440][ 11]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.11.15-19.43.24:440][ 11]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.11.15-19.43.24:440][ 11]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.11.15-19.43.24:440][ 11]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.11.15-19.43.24:440][ 11]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.11.15-19.43.24:440][ 11]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.11.15-19.43.24:440][ 11]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2021.11.15-19.43.24:441][ 11]LogHMD: Freeing OpenVRDLLHandle.
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (108)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2021.11.15-19.43.24:441][ 11]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (104)
+[2021.11.15-19.43.24:441][ 11]LogModuleManager: Shutting down and abandoning module OpenXRAR (102)
+[2021.11.15-19.43.24:442][ 11]LogModuleManager: Shutting down and abandoning module AugmentedReality (101)
+[2021.11.15-19.43.24:442][ 11]LogModuleManager: Shutting down and abandoning module OpenXRHMD (98)
+[2021.11.15-19.43.24:442][ 11]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.11.15-19.43.24:442][ 11]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.11.15-19.43.24:442][ 11]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.11.15-19.43.24:442][ 11]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.11.15-19.43.24:445][ 11]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.11.15-19.43.24:445][ 11]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.11.15-19.43.24:465][ 11]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.11.15-19.43.24:465][ 11]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.11.15-19.43.24:465][ 11]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA69970CA-470A-EB6B-1DA5-ADBE782EBC41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=0c7a5af84a37b723e269869d2b8f087a%7C5d457e8065a0446d951ca08ea6c9ed3d%7C11f24c56-d380-411a-aa52-42ed3979d430&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.11.15-19.43.24:465][ 11]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.11.15-19.43.24:489][ 11]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.11.15-19.43.24:490][ 11]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.11.15-19.43.24:492][ 11]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.11.15-19.43.24:493][ 11]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.11.15-19.43.24:493][ 11]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.11.15-19.43.24:493][ 11]LogModuleManager: Shutting down and abandoning module VariantManagerContent (66)
+[2021.11.15-19.43.24:493][ 11]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2021.11.15-19.43.24:493][ 11]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.11.15-19.43.24:494][ 11]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.11.15-19.43.24:495][ 11]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.11.15-19.43.24:495][ 11]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.11.15-19.43.24:495][ 11]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.11.15-19.43.24:495][ 11]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.11.15-19.43.24:495][ 11]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.11.15-19.43.24:495][ 11]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.11.15-19.43.24:496][ 11]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.11.15-19.43.24:496][ 11]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.11.15-19.43.24:496][ 11]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.11.15-19.43.24:496][ 11]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.11.15-19.43.24:496][ 11]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.11.15-19.43.24:497][ 11]LogD3D11RHI: Shutdown
+[2021.11.15-19.43.24:497][ 11]LogD3D11RHI: CleanupD3DDevice
+[2021.11.15-19.43.24:513][ 11]LogExit: Exiting.
+[2021.11.15-19.43.24:519][ 11]Log file closed, 11/15/21 20:43:24
