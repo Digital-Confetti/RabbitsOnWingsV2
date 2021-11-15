@@ -12095,3 +12095,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.15-01.49.24:423][806]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2021.11.15-01.51.11:334][929]LogSlate: Window 'Project Settings' being destroyed
 [2021.11.15-01.51.11:354][929]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.15-01.51.46:418][689]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.15-01.51.46:471][689]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2021.11.15-01.51.47:142][689]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2021.11.15-01.51.47:653][689]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.11.15-01.51.47:658][689]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.11.15-01.51.50:376][689]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2021.11.15-01.51.50:382][689]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2021.11.15-01.51.50:389][689]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2021.11.15-01.51.50:395][689]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2021.11.15-01.51.50:401][689]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2021.11.15-01.51.50:407][689]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2021.11.15-01.51.50:413][689]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2021.11.15-01.51.50:419][689]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2021.11.15-01.51.50:425][689]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2021.11.15-01.51.50:431][689]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2021.11.15-01.51.50:565][689]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.11.15-01.51.50:565][689]LogObjectTools: Currently 8 active worlds: /Game/ThirdPersonBP/Maps/Menu.Menu, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2021.11.15-01.51.50:636][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.11.15-01.51.52:619][689]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.15-01.51.52:641][689]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-01.51.52:641][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-01.51.52:641][689]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-01.51.52:641][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-01.51.52:642][689]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-01.51.52:642][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-01.51.52:716][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.11.15-01.51.52:750][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.11.15-01.51.52:778][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.15-01.51.52:808][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.15-01.51.52:837][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.15-01.51.52:865][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.15-01.51.52:900][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.11.15-01.51.52:928][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
