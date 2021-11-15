@@ -12092,3 +12092,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.15-01.48.55:711][993]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.11.15-01.48.55:711][993]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,122ms to complete.
 [2021.11.15-01.48.55:711][993]LogFileHelpers: Loading map 'Menu' took 0.153
+[2021.11.15-01.49.24:423][806]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.15-01.51.11:334][929]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.15-01.51.11:354][929]LogSlate: Window 'Project Settings' being destroyed
